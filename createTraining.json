@@ -1,0 +1,725 @@
+{
+    "cookies": "cookies.pkl",
+    "todo": [
+        {
+            "uri": "/ui/users/groups",
+            "buttonText": "Create New Group",
+            "data": [
+            ]
+        },
+        {
+            "uri": "/ui/users/groups?per=100",
+            "data": [
+            ]
+        },
+        {
+            "uri": "/ui/training/campaigns/<campaign_id>/clone",
+            "data": [
+                {
+                    "values": [
+                        {
+                            "xpath": "/html/body/div[1]/div[1]/div[2]/div/div[2]/div[2]/div/div[3]/form/fieldset[2]/div/div/div[2]/span/div[1]/input",
+                            "value": "\ue009a"
+                        },
+                        {
+                            "xpath": "/html/body/div[1]/div[1]/div[2]/div/div[2]/div[2]/div/div[3]/form/fieldset[2]/div/div/div[2]/span/div[1]/input",
+                            "value": "17/04/2023"
+                        },
+                        {
+                            "xpath": "(//*[@class='multiselect'])[1]/div[1]",
+                            "click": true
+                        },
+                        {
+                            "action": true,
+                            "value": "The Inside Man: Season 2 Ep 01"
+                        },
+                        {
+                            "xpath": "/html/body/div[1]/div[1]/div[2]/div/div[2]/div[2]/div/div[3]/form/div[2]/div[1]/div[2]/div[2]/div/div[3]/ul/li[2]"
+                        },
+                        {
+                            "action": true,
+                            "value": "\ue007\ue0032"
+                        },
+                        {
+                            "xpath": "/html/body/div[1]/div[1]/div[2]/div/div[2]/div[2]/div/div[3]/form/div[2]/div[1]/div[2]/div[2]/div/div[3]/ul/li[2]"
+                        },
+                        {
+                            "action": true,
+                            "value": "\ue007"
+                        },
+                        {
+                            "xpath": "/html/body/div[1]/div[1]/div[2]/div/div[2]/div[2]/div/div[3]/form/fieldset[3]/div/div[1]/div[2]/div[2]/div/div[1]",
+                            "click": true
+                        },
+                        {
+                            "action": true,
+                            "value": "TIM S02E01"
+                        },
+                        {
+                            "xpath": "/html/body/div[1]/div[1]/div[2]/div/div[2]/div[2]/div/div[3]/form/fieldset[3]/div/div[1]/div[2]/div[2]/div/div[3]/ul/li"
+                        },
+                        {
+                            "action": true,
+                            "value": "\ue007\ue0032"
+                        },
+                        {
+                            "xpath": "/html/body/div[1]/div[1]/div[2]/div/div[2]/div[2]/div/div[3]/form/fieldset[3]/div/div[1]/div[2]/div[2]/div/div[3]/ul/li"
+                        },
+                        {
+                            "action": true,
+                            "value": "\ue007"
+                        },
+                        {
+                            "name": "campaign-name",
+                            "value": "\ue009a"
+                        },
+                        {
+                            "name": "campaign-name",
+                            "value": "TIM S02E02\ue007"
+                        }
+                    ]
+                },
+                {
+                    "values": [
+                        {
+                            "xpath": "/html/body/div[1]/div[1]/div[2]/div/div[2]/div[2]/div/div[3]/form/fieldset[2]/div/div/div[2]/span/div[1]/input",
+                            "value": "\ue009a"
+                        },
+                        {
+                            "xpath": "/html/body/div[1]/div[1]/div[2]/div/div[2]/div[2]/div/div[3]/form/fieldset[2]/div/div/div[2]/span/div[1]/input",
+                            "value": "19/04/2023"
+                        },
+                        {
+                            "xpath": "(//*[@class='multiselect'])[1]/div[1]",
+                            "click": true
+                        },
+                        {
+                            "action": true,
+                            "value": "The Inside Man: Season 2 Ep 01"
+                        },
+                        {
+                            "xpath": "/html/body/div[1]/div[1]/div[2]/div/div[2]/div[2]/div/div[3]/form/div[2]/div[1]/div[2]/div[2]/div/div[3]/ul/li[2]"
+                        },
+                        {
+                            "action": true,
+                            "value": "\ue007\ue0033"
+                        },
+                        {
+                            "xpath": "/html/body/div[1]/div[1]/div[2]/div/div[2]/div[2]/div/div[3]/form/div[2]/div[1]/div[2]/div[2]/div/div[3]/ul/li[2]"
+                        },
+                        {
+                            "action": true,
+                            "value": "\ue007"
+                        },
+                        {
+                            "xpath": "/html/body/div[1]/div[1]/div[2]/div/div[2]/div[2]/div/div[3]/form/fieldset[3]/div/div[1]/div[2]/div[2]/div/div[1]",
+                            "click": true
+                        },
+                        {
+                            "action": true,
+                            "value": "TIM S02E01"
+                        },
+                        {
+                            "xpath": "/html/body/div[1]/div[1]/div[2]/div/div[2]/div[2]/div/div[3]/form/fieldset[3]/div/div[1]/div[2]/div[2]/div/div[3]/ul/li"
+                        },
+                        {
+                            "action": true,
+                            "value": "\ue007\ue0033"
+                        },
+                        {
+                            "xpath": "/html/body/div[1]/div[1]/div[2]/div/div[2]/div[2]/div/div[3]/form/fieldset[3]/div/div[1]/div[2]/div[2]/div/div[3]/ul/li"
+                        },
+                        {
+                            "action": true,
+                            "value": "\ue007"
+                        },
+                        {
+                            "name": "campaign-name",
+                            "value": "\ue009a"
+                        },
+                        {
+                            "name": "campaign-name",
+                            "value": "TIM S02E03\ue007"
+                        }
+                    ]
+                },
+                {
+                    "values": [
+                        {
+                            "xpath": "/html/body/div[1]/div[1]/div[2]/div/div[2]/div[2]/div/div[3]/form/fieldset[2]/div/div/div[2]/span/div[1]/input",
+                            "value": "\ue009a"
+                        },
+                        {
+                            "xpath": "/html/body/div[1]/div[1]/div[2]/div/div[2]/div[2]/div/div[3]/form/fieldset[2]/div/div/div[2]/span/div[1]/input",
+                            "value": "27/04/2023"
+                        },
+                        {
+                            "xpath": "(//*[@class='multiselect'])[1]/div[1]",
+                            "click": true
+                        },
+                        {
+                            "action": true,
+                            "value": "The Inside Man: Season 2 Ep 01"
+                        },
+                        {
+                            "xpath": "/html/body/div[1]/div[1]/div[2]/div/div[2]/div[2]/div/div[3]/form/div[2]/div[1]/div[2]/div[2]/div/div[3]/ul/li[2]"
+                        },
+                        {
+                            "action": true,
+                            "value": "\ue007\ue0034"
+                        },
+                        {
+                            "xpath": "/html/body/div[1]/div[1]/div[2]/div/div[2]/div[2]/div/div[3]/form/div[2]/div[1]/div[2]/div[2]/div/div[3]/ul/li[2]"
+                        },
+                        {
+                            "action": true,
+                            "value": "\ue007"
+                        },
+                        {
+                            "xpath": "/html/body/div[1]/div[1]/div[2]/div/div[2]/div[2]/div/div[3]/form/fieldset[3]/div/div[1]/div[2]/div[2]/div/div[1]",
+                            "click": true
+                        },
+                        {
+                            "action": true,
+                            "value": "TIM S02E01"
+                        },
+                        {
+                            "xpath": "/html/body/div[1]/div[1]/div[2]/div/div[2]/div[2]/div/div[3]/form/fieldset[3]/div/div[1]/div[2]/div[2]/div/div[3]/ul/li"
+                        },
+                        {
+                            "action": true,
+                            "value": "\ue007\ue0034"
+                        },
+                        {
+                            "xpath": "/html/body/div[1]/div[1]/div[2]/div/div[2]/div[2]/div/div[3]/form/fieldset[3]/div/div[1]/div[2]/div[2]/div/div[3]/ul/li"
+                        },
+                        {
+                            "action": true,
+                            "value": "\ue007"
+                        },
+                        {
+                            "name": "campaign-name",
+                            "value": "\ue009a"
+                        },
+                        {
+                            "name": "campaign-name",
+                            "value": "TIM S02E04\ue007"
+                        }
+                    ]
+                },
+                {
+                    "values": [
+                        {
+                            "xpath": "/html/body/div[1]/div[1]/div[2]/div/div[2]/div[2]/div/div[3]/form/fieldset[2]/div/div/div[2]/span/div[1]/input",
+                            "value": "\ue009a"
+                        },
+                        {
+                            "xpath": "/html/body/div[1]/div[1]/div[2]/div/div[2]/div[2]/div/div[3]/form/fieldset[2]/div/div/div[2]/span/div[1]/input",
+                            "value": "26/04/2023"
+                        },
+                        {
+                            "xpath": "(//*[@class='multiselect'])[1]/div[1]",
+                            "click": true
+                        },
+                        {
+                            "action": true,
+                            "value": "The Inside Man: Season 2 Ep 01"
+                        },
+                        {
+                            "xpath": "/html/body/div[1]/div[1]/div[2]/div/div[2]/div[2]/div/div[3]/form/div[2]/div[1]/div[2]/div[2]/div/div[3]/ul/li[2]"
+                        },
+                        {
+                            "action": true,
+                            "value": "\ue007\ue0035"
+                        },
+                        {
+                            "xpath": "/html/body/div[1]/div[1]/div[2]/div/div[2]/div[2]/div/div[3]/form/div[2]/div[1]/div[2]/div[2]/div/div[3]/ul/li[2]"
+                        },
+                        {
+                            "action": true,
+                            "value": "\ue007"
+                        },
+                        {
+                            "xpath": "/html/body/div[1]/div[1]/div[2]/div/div[2]/div[2]/div/div[3]/form/fieldset[3]/div/div[1]/div[2]/div[2]/div/div[1]",
+                            "click": true
+                        },
+                        {
+                            "action": true,
+                            "value": "TIM S02E01"
+                        },
+                        {
+                            "xpath": "/html/body/div[1]/div[1]/div[2]/div/div[2]/div[2]/div/div[3]/form/fieldset[3]/div/div[1]/div[2]/div[2]/div/div[3]/ul/li"
+                        },
+                        {
+                            "action": true,
+                            "value": "\ue007\ue0035"
+                        },
+                        {
+                            "xpath": "/html/body/div[1]/div[1]/div[2]/div/div[2]/div[2]/div/div[3]/form/fieldset[3]/div/div[1]/div[2]/div[2]/div/div[3]/ul/li"
+                        },
+                        {
+                            "action": true,
+                            "value": "\ue007"
+                        },
+                        {
+                            "name": "campaign-name",
+                            "value": "\ue009a"
+                        },
+                        {
+                            "name": "campaign-name",
+                            "value": "TIM S02E05\ue007"
+                        }
+                    ]
+                },
+                {
+                    "values": [
+                        {
+                            "xpath": "/html/body/div[1]/div[1]/div[2]/div/div[2]/div[2]/div/div[3]/form/fieldset[2]/div/div/div[2]/span/div[1]/input",
+                            "value": "\ue009a"
+                        },
+                        {
+                            "xpath": "/html/body/div[1]/div[1]/div[2]/div/div[2]/div[2]/div/div[3]/form/fieldset[2]/div/div/div[2]/span/div[1]/input",
+                            "value": "01/05/2023"
+                        },
+                        {
+                            "xpath": "(//*[@class='multiselect'])[1]/div[1]",
+                            "click": true
+                        },
+                        {
+                            "action": true,
+                            "value": "The Inside Man: Season 2 Ep 01"
+                        },
+                        {
+                            "xpath": "/html/body/div[1]/div[1]/div[2]/div/div[2]/div[2]/div/div[3]/form/div[2]/div[1]/div[2]/div[2]/div/div[3]/ul/li[2]"
+                        },
+                        {
+                            "action": true,
+                            "value": "\ue007\ue0036"
+                        },
+                        {
+                            "xpath": "/html/body/div[1]/div[1]/div[2]/div/div[2]/div[2]/div/div[3]/form/div[2]/div[1]/div[2]/div[2]/div/div[3]/ul/li[2]"
+                        },
+                        {
+                            "action": true,
+                            "value": "\ue007"
+                        },
+                        {
+                            "xpath": "/html/body/div[1]/div[1]/div[2]/div/div[2]/div[2]/div/div[3]/form/fieldset[3]/div/div[1]/div[2]/div[2]/div/div[1]",
+                            "click": true
+                        },
+                        {
+                            "action": true,
+                            "value": "TIM S02E01"
+                        },
+                        {
+                            "xpath": "/html/body/div[1]/div[1]/div[2]/div/div[2]/div[2]/div/div[3]/form/fieldset[3]/div/div[1]/div[2]/div[2]/div/div[3]/ul/li"
+                        },
+                        {
+                            "action": true,
+                            "value": "\ue007\ue0036"
+                        },
+                        {
+                            "xpath": "/html/body/div[1]/div[1]/div[2]/div/div[2]/div[2]/div/div[3]/form/fieldset[3]/div/div[1]/div[2]/div[2]/div/div[3]/ul/li"
+                        },
+                        {
+                            "action": true,
+                            "value": "\ue007"
+                        },
+                        {
+                            "name": "campaign-name",
+                            "value": "\ue009a"
+                        },
+                        {
+                            "name": "campaign-name",
+                            "value": "TIM S02E06\ue007"
+                        }
+                    ]
+                },
+                {
+                    "values": [
+                        {
+                            "xpath": "/html/body/div[1]/div[1]/div[2]/div/div[2]/div[2]/div/div[3]/form/fieldset[2]/div/div/div[2]/span/div[1]/input",
+                            "value": "\ue009a"
+                        },
+                        {
+                            "xpath": "/html/body/div[1]/div[1]/div[2]/div/div[2]/div[2]/div/div[3]/form/fieldset[2]/div/div/div[2]/span/div[1]/input",
+                            "value": "03/05/2023"
+                        },
+                        {
+                            "xpath": "(//*[@class='multiselect'])[1]/div[1]",
+                            "click": true
+                        },
+                        {
+                            "action": true,
+                            "value": "The Inside Man: Season 2 Ep 01"
+                        },
+                        {
+                            "xpath": "/html/body/div[1]/div[1]/div[2]/div/div[2]/div[2]/div/div[3]/form/div[2]/div[1]/div[2]/div[2]/div/div[3]/ul/li[2]"
+                        },
+                        {
+                            "action": true,
+                            "value": "\ue007\ue0037"
+                        },
+                        {
+                            "xpath": "/html/body/div[1]/div[1]/div[2]/div/div[2]/div[2]/div/div[3]/form/div[2]/div[1]/div[2]/div[2]/div/div[3]/ul/li[2]"
+                        },
+                        {
+                            "action": true,
+                            "value": "\ue007"
+                        },
+                        {
+                            "xpath": "/html/body/div[1]/div[1]/div[2]/div/div[2]/div[2]/div/div[3]/form/fieldset[3]/div/div[1]/div[2]/div[2]/div/div[1]",
+                            "click": true
+                        },
+                        {
+                            "action": true,
+                            "value": "TIM S02E01"
+                        },
+                        {
+                            "xpath": "/html/body/div[1]/div[1]/div[2]/div/div[2]/div[2]/div/div[3]/form/fieldset[3]/div/div[1]/div[2]/div[2]/div/div[3]/ul/li"
+                        },
+                        {
+                            "action": true,
+                            "value": "\ue007\ue0037"
+                        },
+                        {
+                            "xpath": "/html/body/div[1]/div[1]/div[2]/div/div[2]/div[2]/div/div[3]/form/fieldset[3]/div/div[1]/div[2]/div[2]/div/div[3]/ul/li"
+                        },
+                        {
+                            "action": true,
+                            "value": "\ue007"
+                        },
+                        {
+                            "name": "campaign-name",
+                            "value": "\ue009a"
+                        },
+                        {
+                            "name": "campaign-name",
+                            "value": "TIM S02E07\ue007"
+                        }
+                    ]
+                },
+                {
+                    "values": [
+                        {
+                            "xpath": "/html/body/div[1]/div[1]/div[2]/div/div[2]/div[2]/div/div[3]/form/fieldset[2]/div/div/div[2]/span/div[1]/input",
+                            "value": "\ue009a"
+                        },
+                        {
+                            "xpath": "/html/body/div[1]/div[1]/div[2]/div/div[2]/div[2]/div/div[3]/form/fieldset[2]/div/div/div[2]/span/div[1]/input",
+                            "value": "08/05/2023"
+                        },
+                        {
+                            "xpath": "(//*[@class='multiselect'])[1]/div[1]",
+                            "click": true
+                        },
+                        {
+                            "action": true,
+                            "value": "The Inside Man: Season 2 Ep 01"
+                        },
+                        {
+                            "xpath": "/html/body/div[1]/div[1]/div[2]/div/div[2]/div[2]/div/div[3]/form/div[2]/div[1]/div[2]/div[2]/div/div[3]/ul/li[2]"
+                        },
+                        {
+                            "action": true,
+                            "value": "\ue007\ue0038"
+                        },
+                        {
+                            "xpath": "/html/body/div[1]/div[1]/div[2]/div/div[2]/div[2]/div/div[3]/form/div[2]/div[1]/div[2]/div[2]/div/div[3]/ul/li[2]"
+                        },
+                        {
+                            "action": true,
+                            "value": "\ue007"
+                        },
+                        {
+                            "xpath": "/html/body/div[1]/div[1]/div[2]/div/div[2]/div[2]/div/div[3]/form/fieldset[3]/div/div[1]/div[2]/div[2]/div/div[1]",
+                            "click": true
+                        },
+                        {
+                            "action": true,
+                            "value": "TIM S02E01"
+                        },
+                        {
+                            "xpath": "/html/body/div[1]/div[1]/div[2]/div/div[2]/div[2]/div/div[3]/form/fieldset[3]/div/div[1]/div[2]/div[2]/div/div[3]/ul/li"
+                        },
+                        {
+                            "action": true,
+                            "value": "\ue007\ue0038"
+                        },
+                        {
+                            "xpath": "/html/body/div[1]/div[1]/div[2]/div/div[2]/div[2]/div/div[3]/form/fieldset[3]/div/div[1]/div[2]/div[2]/div/div[3]/ul/li"
+                        },
+                        {
+                            "action": true,
+                            "value": "\ue007"
+                        },
+                        {
+                            "name": "campaign-name",
+                            "value": "\ue009a"
+                        },
+                        {
+                            "name": "campaign-name",
+                            "value": "TIM S02E08\ue007"
+                        }
+                    ]
+                },
+                {
+                    "values": [
+                        {
+                            "xpath": "/html/body/div[1]/div[1]/div[2]/div/div[2]/div[2]/div/div[3]/form/fieldset[2]/div/div/div[2]/span/div[1]/input",
+                            "value": "\ue009a"
+                        },
+                        {
+                            "xpath": "/html/body/div[1]/div[1]/div[2]/div/div[2]/div[2]/div/div[3]/form/fieldset[2]/div/div/div[2]/span/div[1]/input",
+                            "value": "10/05/2023"
+                        },
+                        {
+                            "xpath": "(//*[@class='multiselect'])[1]/div[1]",
+                            "click": true
+                        },
+                        {
+                            "action": true,
+                            "value": "The Inside Man: Season 2 Ep 01"
+                        },
+                        {
+                            "xpath": "/html/body/div[1]/div[1]/div[2]/div/div[2]/div[2]/div/div[3]/form/div[2]/div[1]/div[2]/div[2]/div/div[3]/ul/li[2]"
+                        },
+                        {
+                            "action": true,
+                            "value": "\ue007\ue0039"
+                        },
+                        {
+                            "xpath": "/html/body/div[1]/div[1]/div[2]/div/div[2]/div[2]/div/div[3]/form/div[2]/div[1]/div[2]/div[2]/div/div[3]/ul/li[2]"
+                        },
+                        {
+                            "action": true,
+                            "value": "\ue007"
+                        },
+                        {
+                            "xpath": "/html/body/div[1]/div[1]/div[2]/div/div[2]/div[2]/div/div[3]/form/fieldset[3]/div/div[1]/div[2]/div[2]/div/div[1]",
+                            "click": true
+                        },
+                        {
+                            "action": true,
+                            "value": "TIM S02E01"
+                        },
+                        {
+                            "xpath": "/html/body/div[1]/div[1]/div[2]/div/div[2]/div[2]/div/div[3]/form/fieldset[3]/div/div[1]/div[2]/div[2]/div/div[3]/ul/li"
+                        },
+                        {
+                            "action": true,
+                            "value": "\ue007\ue0039"
+                        },
+                        {
+                            "xpath": "/html/body/div[1]/div[1]/div[2]/div/div[2]/div[2]/div/div[3]/form/fieldset[3]/div/div[1]/div[2]/div[2]/div/div[3]/ul/li"
+                        },
+                        {
+                            "action": true,
+                            "value": "\ue007"
+                        },
+                        {
+                            "name": "campaign-name",
+                            "value": "\ue009a"
+                        },
+                        {
+                            "name": "campaign-name",
+                            "value": "TIM S02E09\ue007"
+                        }
+                    ]
+                },
+                {
+                    "values": [
+                        {
+                            "xpath": "/html/body/div[1]/div[1]/div[2]/div/div[2]/div[2]/div/div[3]/form/fieldset[2]/div/div/div[2]/span/div[1]/input",
+                            "value": "\ue009a"
+                        },
+                        {
+                            "xpath": "/html/body/div[1]/div[1]/div[2]/div/div[2]/div[2]/div/div[3]/form/fieldset[2]/div/div/div[2]/span/div[1]/input",
+                            "value": "15/05/2023"
+                        },
+                        {
+                            "xpath": "(//*[@class='multiselect'])[1]/div[1]",
+                            "click": true
+                        },
+                        {
+                            "action": true,
+                            "value": "The Inside Man: Season 2 Ep 01"
+                        },
+                        {
+                            "xpath": "/html/body/div[1]/div[1]/div[2]/div/div[2]/div[2]/div/div[3]/form/div[2]/div[1]/div[2]/div[2]/div/div[3]/ul/li[2]"
+                        },
+                        {
+                            "action": true,
+                            "value": "\ue007\ue003\ue00310"
+                        },
+                        {
+                            "xpath": "/html/body/div[1]/div[1]/div[2]/div/div[2]/div[2]/div/div[3]/form/div[2]/div[1]/div[2]/div[2]/div/div[3]/ul/li[2]"
+                        },
+                        {
+                            "action": true,
+                            "value": "\ue007"
+                        },
+                        {
+                            "xpath": "/html/body/div[1]/div[1]/div[2]/div/div[2]/div[2]/div/div[3]/form/fieldset[3]/div/div[1]/div[2]/div[2]/div/div[1]",
+                            "click": true
+                        },
+                        {
+                            "action": true,
+                            "value": "TIM S02E01"
+                        },
+                        {
+                            "xpath": "/html/body/div[1]/div[1]/div[2]/div/div[2]/div[2]/div/div[3]/form/fieldset[3]/div/div[1]/div[2]/div[2]/div/div[3]/ul/li"
+                        },
+                        {
+                            "action": true,
+                            "value": "\ue007\ue003\ue00310"
+                        },
+                        {
+                            "xpath": "/html/body/div[1]/div[1]/div[2]/div/div[2]/div[2]/div/div[3]/form/fieldset[3]/div/div[1]/div[2]/div[2]/div/div[3]/ul/li"
+                        },
+                        {
+                            "action": true,
+                            "value": "\ue007"
+                        },
+                        {
+                            "name": "campaign-name",
+                            "value": "\ue009a"
+                        },
+                        {
+                            "name": "campaign-name",
+                            "value": "TIM S02E10\ue007"
+                        }
+                    ]
+                },
+                {
+                    "values": [
+                        {
+                            "xpath": "/html/body/div[1]/div[1]/div[2]/div/div[2]/div[2]/div/div[3]/form/fieldset[2]/div/div/div[2]/span/div[1]/input",
+                            "value": "\ue009a"
+                        },
+                        {
+                            "xpath": "/html/body/div[1]/div[1]/div[2]/div/div[2]/div[2]/div/div[3]/form/fieldset[2]/div/div/div[2]/span/div[1]/input",
+                            "value": "17/05/2023"
+                        },
+                        {
+                            "xpath": "(//*[@class='multiselect'])[1]/div[1]",
+                            "click": true
+                        },
+                        {
+                            "action": true,
+                            "value": "The Inside Man: Season 2 Ep 01"
+                        },
+                        {
+                            "xpath": "/html/body/div[1]/div[1]/div[2]/div/div[2]/div[2]/div/div[3]/form/div[2]/div[1]/div[2]/div[2]/div/div[3]/ul/li[2]"
+                        },
+                        {
+                            "action": true,
+                            "value": "\ue007\ue003\ue00311"
+                        },
+                        {
+                            "xpath": "/html/body/div[1]/div[1]/div[2]/div/div[2]/div[2]/div/div[3]/form/div[2]/div[1]/div[2]/div[2]/div/div[3]/ul/li[2]"
+                        },
+                        {
+                            "action": true,
+                            "value": "\ue007"
+                        },
+                        {
+                            "xpath": "/html/body/div[1]/div[1]/div[2]/div/div[2]/div[2]/div/div[3]/form/fieldset[3]/div/div[1]/div[2]/div[2]/div/div[1]",
+                            "click": true
+                        },
+                        {
+                            "action": true,
+                            "value": "TIM S02E01"
+                        },
+                        {
+                            "xpath": "/html/body/div[1]/div[1]/div[2]/div/div[2]/div[2]/div/div[3]/form/fieldset[3]/div/div[1]/div[2]/div[2]/div/div[3]/ul/li"
+                        },
+                        {
+                            "action": true,
+                            "value": "\ue007\ue003\ue00311"
+                        },
+                        {
+                            "xpath": "/html/body/div[1]/div[1]/div[2]/div/div[2]/div[2]/div/div[3]/form/fieldset[3]/div/div[1]/div[2]/div[2]/div/div[3]/ul/li"
+                        },
+                        {
+                            "action": true,
+                            "value": "\ue007"
+                        },
+                        {
+                            "name": "campaign-name",
+                            "value": "\ue009a"
+                        },
+                        {
+                            "name": "campaign-name",
+                            "value": "TIM S02E11\ue007"
+                        }
+                    ]
+                },
+                {
+                    "values": [
+                        {
+                            "xpath": "/html/body/div[1]/div[1]/div[2]/div/div[2]/div[2]/div/div[3]/form/fieldset[2]/div/div/div[2]/span/div[1]/input",
+                            "value": "\ue009a"
+                        },
+                        {
+                            "xpath": "/html/body/div[1]/div[1]/div[2]/div/div[2]/div[2]/div/div[3]/form/fieldset[2]/div/div/div[2]/span/div[1]/input",
+                            "value": "22/05/2023"
+                        },
+                        {
+                            "xpath": "(//*[@class='multiselect'])[1]/div[1]",
+                            "click": true
+                        },
+                        {
+                            "action": true,
+                            "value": "The Inside Man: Season 2 Ep 01"
+                        },
+                        {
+                            "xpath": "/html/body/div[1]/div[1]/div[2]/div/div[2]/div[2]/div/div[3]/form/div[2]/div[1]/div[2]/div[2]/div/div[3]/ul/li[2]"
+                        },
+                        {
+                            "action": true,
+                            "value": "\ue007\ue003\ue00312"
+                        },
+                        {
+                            "xpath": "/html/body/div[1]/div[1]/div[2]/div/div[2]/div[2]/div/div[3]/form/div[2]/div[1]/div[2]/div[2]/div/div[3]/ul/li[2]"
+                        },
+                        {
+                            "action": true,
+                            "value": "\ue007"
+                        },
+                        {
+                            "xpath": "/html/body/div[1]/div[1]/div[2]/div/div[2]/div[2]/div/div[3]/form/fieldset[3]/div/div[1]/div[2]/div[2]/div/div[1]",
+                            "click": true
+                        },
+                        {
+                            "action": true,
+                            "value": "TIM S02E01"
+                        },
+                        {
+                            "xpath": "/html/body/div[1]/div[1]/div[2]/div/div[2]/div[2]/div/div[3]/form/fieldset[3]/div/div[1]/div[2]/div[2]/div/div[3]/ul/li"
+                        },
+                        {
+                            "action": true,
+                            "value": "\ue007\ue003\ue00312"
+                        },
+                        {
+                            "xpath": "/html/body/div[1]/div[1]/div[2]/div/div[2]/div[2]/div/div[3]/form/fieldset[3]/div/div[1]/div[2]/div[2]/div/div[3]/ul/li"
+                        },
+                        {
+                            "action": true,
+                            "value": "\ue007"
+                        },
+                        {
+                            "name": "campaign-name",
+                            "value": "\ue009a"
+                        },
+                        {
+                            "name": "campaign-name",
+                            "value": "TIM S02E12\ue007"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

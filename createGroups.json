@@ -1,0 +1,479 @@
+{
+    "cookies": "cookies.pkl",
+    "todo": [
+        {
+            "uri": "/ui/users/groups",
+            "buttonText": "Create New Group",
+            "data": [
+                {
+                    "submitButtonText": "Create Group",
+                    "values": [
+                        {
+                            "xpath": "/html/body/div[1]/div[1]/div[2]/div/div[2]/div[2]/div/div[2]/div/form/fieldset[1]/div/input",
+                            "value": "TIM S03E01"
+                        },
+                        {
+                            "xpath": "/html/body/div[1]/div[1]/div[2]/div/div[2]/div[2]/div/div[2]/div/form/fieldset[3]/div/div/label",
+                            "click": true
+                        }
+                    ]
+                },
+                {
+                    "submitButtonText": "Create Group",
+                    "values": [
+                        {
+                            "xpath": "/html/body/div[1]/div[1]/div[2]/div/div[2]/div[2]/div/div[2]/div/form/fieldset[1]/div/input",
+                            "value": "TIM S03E02"
+                        },
+                        {
+                            "xpath": "/html/body/div[1]/div[1]/div[2]/div/div[2]/div[2]/div/div[2]/div/form/fieldset[3]/div/div/label",
+                            "click": true
+                        }
+                    ]
+                },
+                {
+                    "submitButtonText": "Create Group",
+                    "values": [
+                        {
+                            "xpath": "/html/body/div[1]/div[1]/div[2]/div/div[2]/div[2]/div/div[2]/div/form/fieldset[1]/div/input",
+                            "value": "TIM S03E03"
+                        },
+                        {
+                            "xpath": "/html/body/div[1]/div[1]/div[2]/div/div[2]/div[2]/div/div[2]/div/form/fieldset[3]/div/div/label",
+                            "click": true
+                        }
+                    ]
+                },
+                {
+                    "submitButtonText": "Create Group",
+                    "values": [
+                        {
+                            "xpath": "/html/body/div[1]/div[1]/div[2]/div/div[2]/div[2]/div/div[2]/div/form/fieldset[1]/div/input",
+                            "value": "TIM S03E04"
+                        },
+                        {
+                            "xpath": "/html/body/div[1]/div[1]/div[2]/div/div[2]/div[2]/div/div[2]/div/form/fieldset[3]/div/div/label",
+                            "click": true
+                        }
+                    ]
+                },
+                {
+                    "submitButtonText": "Create Group",
+                    "values": [
+                        {
+                            "xpath": "/html/body/div[1]/div[1]/div[2]/div/div[2]/div[2]/div/div[2]/div/form/fieldset[1]/div/input",
+                            "value": "TIM S03E05"
+                        },
+                        {
+                            "xpath": "/html/body/div[1]/div[1]/div[2]/div/div[2]/div[2]/div/div[2]/div/form/fieldset[3]/div/div/label",
+                            "click": true
+                        }
+                    ]
+                },
+                {
+                    "submitButtonText": "Create Group",
+                    "values": [
+                        {
+                            "xpath": "/html/body/div[1]/div[1]/div[2]/div/div[2]/div[2]/div/div[2]/div/form/fieldset[1]/div/input",
+                            "value": "TIM S03E06"
+                        },
+                        {
+                            "xpath": "/html/body/div[1]/div[1]/div[2]/div/div[2]/div[2]/div/div[2]/div/form/fieldset[3]/div/div/label",
+                            "click": true
+                        }
+                    ]
+                },
+                {
+                    "submitButtonText": "Create Group",
+                    "values": [
+                        {
+                            "xpath": "/html/body/div[1]/div[1]/div[2]/div/div[2]/div[2]/div/div[2]/div/form/fieldset[1]/div/input",
+                            "value": "TIM S03E07"
+                        },
+                        {
+                            "xpath": "/html/body/div[1]/div[1]/div[2]/div/div[2]/div[2]/div/div[2]/div/form/fieldset[3]/div/div/label",
+                            "click": true
+                        }
+                    ]
+                },
+                {
+                    "submitButtonText": "Create Group",
+                    "values": [
+                        {
+                            "xpath": "/html/body/div[1]/div[1]/div[2]/div/div[2]/div[2]/div/div[2]/div/form/fieldset[1]/div/input",
+                            "value": "TIM S03E08"
+                        },
+                        {
+                            "xpath": "/html/body/div[1]/div[1]/div[2]/div/div[2]/div[2]/div/div[2]/div/form/fieldset[3]/div/div/label",
+                            "click": true
+                        }
+                    ]
+                },
+                {
+                    "submitButtonText": "Create Group",
+                    "values": [
+                        {
+                            "xpath": "/html/body/div[1]/div[1]/div[2]/div/div[2]/div[2]/div/div[2]/div/form/fieldset[1]/div/input",
+                            "value": "TIM S03E09"
+                        },
+                        {
+                            "xpath": "/html/body/div[1]/div[1]/div[2]/div/div[2]/div[2]/div/div[2]/div/form/fieldset[3]/div/div/label",
+                            "click": true
+                        }
+                    ]
+                },
+                {
+                    "submitButtonText": "Create Group",
+                    "values": [
+                        {
+                            "xpath": "/html/body/div[1]/div[1]/div[2]/div/div[2]/div[2]/div/div[2]/div/form/fieldset[1]/div/input",
+                            "value": "TIM S03E10"
+                        },
+                        {
+                            "xpath": "/html/body/div[1]/div[1]/div[2]/div/div[2]/div[2]/div/div[2]/div/form/fieldset[3]/div/div/label",
+                            "click": true
+                        }
+                    ]
+                },
+                {
+                    "submitButtonText": "Create Group",
+                    "values": [
+                        {
+                            "xpath": "/html/body/div[1]/div[1]/div[2]/div/div[2]/div[2]/div/div[2]/div/form/fieldset[1]/div/input",
+                            "value": "TIM S03E11"
+                        },
+                        {
+                            "xpath": "/html/body/div[1]/div[1]/div[2]/div/div[2]/div[2]/div/div[2]/div/form/fieldset[3]/div/div/label",
+                            "click": true
+                        }
+                    ]
+                },
+                {
+                    "submitButtonText": "Create Group",
+                    "values": [
+                        {
+                            "xpath": "/html/body/div[1]/div[1]/div[2]/div/div[2]/div[2]/div/div[2]/div/form/fieldset[1]/div/input",
+                            "value": "TIM S03E12"
+                        },
+                        {
+                            "xpath": "/html/body/div[1]/div[1]/div[2]/div/div[2]/div[2]/div/div[2]/div/form/fieldset[3]/div/div/label",
+                            "click": true
+                        }
+                    ]
+                },
+                {
+                    "submitButtonText": "Create Group",
+                    "values": [
+                        {
+                            "xpath": "/html/body/div[1]/div[1]/div[2]/div/div[2]/div[2]/div/div[2]/div/form/fieldset[1]/div/input",
+                            "value": "TIM S04E01"
+                        },
+                        {
+                            "xpath": "/html/body/div[1]/div[1]/div[2]/div/div[2]/div[2]/div/div[2]/div/form/fieldset[3]/div/div/label",
+                            "click": true
+                        }
+                    ]
+                },
+                {
+                    "submitButtonText": "Create Group",
+                    "values": [
+                        {
+                            "xpath": "/html/body/div[1]/div[1]/div[2]/div/div[2]/div[2]/div/div[2]/div/form/fieldset[1]/div/input",
+                            "value": "TIM S04E02"
+                        },
+                        {
+                            "xpath": "/html/body/div[1]/div[1]/div[2]/div/div[2]/div[2]/div/div[2]/div/form/fieldset[3]/div/div/label",
+                            "click": true
+                        }
+                    ]
+                },
+                {
+                    "submitButtonText": "Create Group",
+                    "values": [
+                        {
+                            "xpath": "/html/body/div[1]/div[1]/div[2]/div/div[2]/div[2]/div/div[2]/div/form/fieldset[1]/div/input",
+                            "value": "TIM S04E03"
+                        },
+                        {
+                            "xpath": "/html/body/div[1]/div[1]/div[2]/div/div[2]/div[2]/div/div[2]/div/form/fieldset[3]/div/div/label",
+                            "click": true
+                        }
+                    ]
+                },
+                {
+                    "submitButtonText": "Create Group",
+                    "values": [
+                        {
+                            "xpath": "/html/body/div[1]/div[1]/div[2]/div/div[2]/div[2]/div/div[2]/div/form/fieldset[1]/div/input",
+                            "value": "TIM S04E04"
+                        },
+                        {
+                            "xpath": "/html/body/div[1]/div[1]/div[2]/div/div[2]/div[2]/div/div[2]/div/form/fieldset[3]/div/div/label",
+                            "click": true
+                        }
+                    ]
+                },
+                {
+                    "submitButtonText": "Create Group",
+                    "values": [
+                        {
+                            "xpath": "/html/body/div[1]/div[1]/div[2]/div/div[2]/div[2]/div/div[2]/div/form/fieldset[1]/div/input",
+                            "value": "TIM S04E05"
+                        },
+                        {
+                            "xpath": "/html/body/div[1]/div[1]/div[2]/div/div[2]/div[2]/div/div[2]/div/form/fieldset[3]/div/div/label",
+                            "click": true
+                        }
+                    ]
+                },
+                {
+                    "submitButtonText": "Create Group",
+                    "values": [
+                        {
+                            "xpath": "/html/body/div[1]/div[1]/div[2]/div/div[2]/div[2]/div/div[2]/div/form/fieldset[1]/div/input",
+                            "value": "TIM S04E06"
+                        },
+                        {
+                            "xpath": "/html/body/div[1]/div[1]/div[2]/div/div[2]/div[2]/div/div[2]/div/form/fieldset[3]/div/div/label",
+                            "click": true
+                        }
+                    ]
+                },
+                {
+                    "submitButtonText": "Create Group",
+                    "values": [
+                        {
+                            "xpath": "/html/body/div[1]/div[1]/div[2]/div/div[2]/div[2]/div/div[2]/div/form/fieldset[1]/div/input",
+                            "value": "TIM S04E07"
+                        },
+                        {
+                            "xpath": "/html/body/div[1]/div[1]/div[2]/div/div[2]/div[2]/div/div[2]/div/form/fieldset[3]/div/div/label",
+                            "click": true
+                        }
+                    ]
+                },
+                {
+                    "submitButtonText": "Create Group",
+                    "values": [
+                        {
+                            "xpath": "/html/body/div[1]/div[1]/div[2]/div/div[2]/div[2]/div/div[2]/div/form/fieldset[1]/div/input",
+                            "value": "TIM S04E08"
+                        },
+                        {
+                            "xpath": "/html/body/div[1]/div[1]/div[2]/div/div[2]/div[2]/div/div[2]/div/form/fieldset[3]/div/div/label",
+                            "click": true
+                        }
+                    ]
+                },
+                {
+                    "submitButtonText": "Create Group",
+                    "values": [
+                        {
+                            "xpath": "/html/body/div[1]/div[1]/div[2]/div/div[2]/div[2]/div/div[2]/div/form/fieldset[1]/div/input",
+                            "value": "TIM S04E09"
+                        },
+                        {
+                            "xpath": "/html/body/div[1]/div[1]/div[2]/div/div[2]/div[2]/div/div[2]/div/form/fieldset[3]/div/div/label",
+                            "click": true
+                        }
+                    ]
+                },
+                {
+                    "submitButtonText": "Create Group",
+                    "values": [
+                        {
+                            "xpath": "/html/body/div[1]/div[1]/div[2]/div/div[2]/div[2]/div/div[2]/div/form/fieldset[1]/div/input",
+                            "value": "TIM S04E10"
+                        },
+                        {
+                            "xpath": "/html/body/div[1]/div[1]/div[2]/div/div[2]/div[2]/div/div[2]/div/form/fieldset[3]/div/div/label",
+                            "click": true
+                        }
+                    ]
+                },
+                {
+                    "submitButtonText": "Create Group",
+                    "values": [
+                        {
+                            "xpath": "/html/body/div[1]/div[1]/div[2]/div/div[2]/div[2]/div/div[2]/div/form/fieldset[1]/div/input",
+                            "value": "TIM S04E11"
+                        },
+                        {
+                            "xpath": "/html/body/div[1]/div[1]/div[2]/div/div[2]/div[2]/div/div[2]/div/form/fieldset[3]/div/div/label",
+                            "click": true
+                        }
+                    ]
+                },
+                {
+                    "submitButtonText": "Create Group",
+                    "values": [
+                        {
+                            "xpath": "/html/body/div[1]/div[1]/div[2]/div/div[2]/div[2]/div/div[2]/div/form/fieldset[1]/div/input",
+                            "value": "TIM S04E12"
+                        },
+                        {
+                            "xpath": "/html/body/div[1]/div[1]/div[2]/div/div[2]/div[2]/div/div[2]/div/form/fieldset[3]/div/div/label",
+                            "click": true
+                        }
+                    ]
+                },
+                {
+                    "submitButtonText": "Create Group",
+                    "values": [
+                        {
+                            "xpath": "/html/body/div[1]/div[1]/div[2]/div/div[2]/div[2]/div/div[2]/div/form/fieldset[1]/div/input",
+                            "value": "TIM S05E01"
+                        },
+                        {
+                            "xpath": "/html/body/div[1]/div[1]/div[2]/div/div[2]/div[2]/div/div[2]/div/form/fieldset[3]/div/div/label",
+                            "click": true
+                        }
+                    ]
+                },
+                {
+                    "submitButtonText": "Create Group",
+                    "values": [
+                        {
+                            "xpath": "/html/body/div[1]/div[1]/div[2]/div/div[2]/div[2]/div/div[2]/div/form/fieldset[1]/div/input",
+                            "value": "TIM S05E02"
+                        },
+                        {
+                            "xpath": "/html/body/div[1]/div[1]/div[2]/div/div[2]/div[2]/div/div[2]/div/form/fieldset[3]/div/div/label",
+                            "click": true
+                        }
+                    ]
+                },
+                {
+                    "submitButtonText": "Create Group",
+                    "values": [
+                        {
+                            "xpath": "/html/body/div[1]/div[1]/div[2]/div/div[2]/div[2]/div/div[2]/div/form/fieldset[1]/div/input",
+                            "value": "TIM S05E03"
+                        },
+                        {
+                            "xpath": "/html/body/div[1]/div[1]/div[2]/div/div[2]/div[2]/div/div[2]/div/form/fieldset[3]/div/div/label",
+                            "click": true
+                        }
+                    ]
+                },
+                {
+                    "submitButtonText": "Create Group",
+                    "values": [
+                        {
+                            "xpath": "/html/body/div[1]/div[1]/div[2]/div/div[2]/div[2]/div/div[2]/div/form/fieldset[1]/div/input",
+                            "value": "TIM S05E04"
+                        },
+                        {
+                            "xpath": "/html/body/div[1]/div[1]/div[2]/div/div[2]/div[2]/div/div[2]/div/form/fieldset[3]/div/div/label",
+                            "click": true
+                        }
+                    ]
+                },
+                {
+                    "submitButtonText": "Create Group",
+                    "values": [
+                        {
+                            "xpath": "/html/body/div[1]/div[1]/div[2]/div/div[2]/div[2]/div/div[2]/div/form/fieldset[1]/div/input",
+                            "value": "TIM S05E05"
+                        },
+                        {
+                            "xpath": "/html/body/div[1]/div[1]/div[2]/div/div[2]/div[2]/div/div[2]/div/form/fieldset[3]/div/div/label",
+                            "click": true
+                        }
+                    ]
+                },
+                {
+                    "submitButtonText": "Create Group",
+                    "values": [
+                        {
+                            "xpath": "/html/body/div[1]/div[1]/div[2]/div/div[2]/div[2]/div/div[2]/div/form/fieldset[1]/div/input",
+                            "value": "TIM S05E06"
+                        },
+                        {
+                            "xpath": "/html/body/div[1]/div[1]/div[2]/div/div[2]/div[2]/div/div[2]/div/form/fieldset[3]/div/div/label",
+                            "click": true
+                        }
+                    ]
+                },
+                {
+                    "submitButtonText": "Create Group",
+                    "values": [
+                        {
+                            "xpath": "/html/body/div[1]/div[1]/div[2]/div/div[2]/div[2]/div/div[2]/div/form/fieldset[1]/div/input",
+                            "value": "TIM S05E07"
+                        },
+                        {
+                            "xpath": "/html/body/div[1]/div[1]/div[2]/div/div[2]/div[2]/div/div[2]/div/form/fieldset[3]/div/div/label",
+                            "click": true
+                        }
+                    ]
+                },
+                {
+                    "submitButtonText": "Create Group",
+                    "values": [
+                        {
+                            "xpath": "/html/body/div[1]/div[1]/div[2]/div/div[2]/div[2]/div/div[2]/div/form/fieldset[1]/div/input",
+                            "value": "TIM S05E08"
+                        },
+                        {
+                            "xpath": "/html/body/div[1]/div[1]/div[2]/div/div[2]/div[2]/div/div[2]/div/form/fieldset[3]/div/div/label",
+                            "click": true
+                        }
+                    ]
+                },
+                {
+                    "submitButtonText": "Create Group",
+                    "values": [
+                        {
+                            "xpath": "/html/body/div[1]/div[1]/div[2]/div/div[2]/div[2]/div/div[2]/div/form/fieldset[1]/div/input",
+                            "value": "TIM S05E09"
+                        },
+                        {
+                            "xpath": "/html/body/div[1]/div[1]/div[2]/div/div[2]/div[2]/div/div[2]/div/form/fieldset[3]/div/div/label",
+                            "click": true
+                        }
+                    ]
+                },
+                {
+                    "submitButtonText": "Create Group",
+                    "values": [
+                        {
+                            "xpath": "/html/body/div[1]/div[1]/div[2]/div/div[2]/div[2]/div/div[2]/div/form/fieldset[1]/div/input",
+                            "value": "TIM S05E10"
+                        },
+                        {
+                            "xpath": "/html/body/div[1]/div[1]/div[2]/div/div[2]/div[2]/div/div[2]/div/form/fieldset[3]/div/div/label",
+                            "click": true
+                        }
+                    ]
+                },
+                {
+                    "submitButtonText": "Create Group",
+                    "values": [
+                        {
+                            "xpath": "/html/body/div[1]/div[1]/div[2]/div/div[2]/div[2]/div/div[2]/div/form/fieldset[1]/div/input",
+                            "value": "TIM S05E11"
+                        },
+                        {
+                            "xpath": "/html/body/div[1]/div[1]/div[2]/div/div[2]/div[2]/div/div[2]/div/form/fieldset[3]/div/div/label",
+                            "click": true
+                        }
+                    ]
+                },
+                {
+                    "submitButtonText": "Create Group",
+                    "values": [
+                        {
+                            "xpath": "/html/body/div[1]/div[1]/div[2]/div/div[2]/div[2]/div/div[2]/div/form/fieldset[1]/div/input",
+                            "value": "TIM S05E12"
+                        },
+                        {
+                            "xpath": "/html/body/div[1]/div[1]/div[2]/div/div[2]/div[2]/div/div[2]/div/form/fieldset[3]/div/div/label",
+                            "click": true
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

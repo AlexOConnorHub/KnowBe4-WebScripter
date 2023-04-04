@@ -1,0 +1,3250 @@
+{
+    "cookies": "cookies.pkl",
+    "todo": [
+        {
+            "uri": "/ui/users/groups?per=100",
+            "data": [
+                {
+                    "submitButtonXPath": "//*[contains(@class, 'btn mt-3 btn-primary')]",
+                    "values": [
+                        {
+                            "link_text": "TIM S03E01",
+                            "click": true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn dropdown-toggle btn-secondary')]",
+                            "click" : true
+                        },
+                        {
+                            "link_text": "Training",
+                            "click": true
+                        },
+                        {
+                            "xpath": "(//*[@class='custom-select'])[2]",
+                            "select": true,
+                            "select_text": "Completed"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[1]",
+                            "click": true
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[2]/input",
+                            "value": "The Inside Man: Season 2 Ep 12"
+                        },
+                        {
+                            "xpath": "(//*[@class='multiselect__element'])[2]"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[2]/input",
+                            "special_key": "ENTER"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[1]",
+                            "click": true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn ml-2 btn-primary')]",
+                            "click" : true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn dropdown-toggle btn-secondary')]",
+                            "click" : true
+                        },
+                        {
+                            "link_text": "Training",
+                            "click": true
+                        },
+                        {
+                            "xpath": "(//*[@class='custom-select'])[1]",
+                            "select" : true,
+                            "select_text": "Must Not"
+                        },
+                        {
+                            "xpath": "(//*[@class='custom-select'])[2]",
+                            "select": true,
+                            "select_text": "Completed"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[1]",
+                            "click": true
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[2]/input",
+                            "value": "The Inside Man: Season 3 Ep 01"
+                        },
+                        {
+                            "xpath": "(//*[@class='multiselect__element'])[2]"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[2]/input",
+                            "special_key": "ENTER"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[1]",
+                            "click": true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn ml-2 btn-primary')]",
+                            "click" : true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn mt-3 btn-primary')]",
+                            "click" : true
+                        }
+                    ]
+                },
+                {
+                    "submitButtonXPath": "//*[contains(@class, 'btn mt-3 btn-primary')]",
+                    "values": [
+                        {
+                            "link_text": "TIM S03E02",
+                            "click": true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn dropdown-toggle btn-secondary')]",
+                            "click" : true
+                        },
+                        {
+                            "link_text": "Training",
+                            "click": true
+                        },
+                        {
+                            "xpath": "(//*[@class='custom-select'])[2]",
+                            "select": true,
+                            "select_text": "Completed"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[1]",
+                            "click": true
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[2]/input",
+                            "value": "The Inside Man: Season 3 Ep 01"
+                        },
+                        {
+                            "xpath": "(//*[@class='multiselect__element'])[2]"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[2]/input",
+                            "special_key": "ENTER"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[1]",
+                            "click": true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn ml-2 btn-primary')]",
+                            "click" : true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn dropdown-toggle btn-secondary')]",
+                            "click" : true
+                        },
+                        {
+                            "link_text": "Training",
+                            "click": true
+                        },
+                        {
+                            "xpath": "(//*[@class='custom-select'])[1]",
+                            "select" : true,
+                            "select_text": "Must Not"
+                        },
+                        {
+                            "xpath": "(//*[@class='custom-select'])[2]",
+                            "select": true,
+                            "select_text": "Completed"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[1]",
+                            "click": true
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[2]/input",
+                            "value": "The Inside Man: Season 3 Ep 02"
+                        },
+                        {
+                            "xpath": "(//*[@class='multiselect__element'])[2]"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[2]/input",
+                            "special_key": "ENTER"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[1]",
+                            "click": true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn ml-2 btn-primary')]",
+                            "click" : true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn mt-3 btn-primary')]",
+                            "click" : true
+                        }
+                    ]
+                },
+                {
+                    "submitButtonXPath": "//*[contains(@class, 'btn mt-3 btn-primary')]",
+                    "values": [
+                        {
+                            "link_text": "TIM S03E03",
+                            "click": true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn dropdown-toggle btn-secondary')]",
+                            "click" : true
+                        },
+                        {
+                            "link_text": "Training",
+                            "click": true
+                        },
+                        {
+                            "xpath": "(//*[@class='custom-select'])[2]",
+                            "select": true,
+                            "select_text": "Completed"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[1]",
+                            "click": true
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[2]/input",
+                            "value": "The Inside Man: Season 3 Ep 02"
+                        },
+                        {
+                            "xpath": "(//*[@class='multiselect__element'])[2]"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[2]/input",
+                            "special_key": "ENTER"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[1]",
+                            "click": true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn ml-2 btn-primary')]",
+                            "click" : true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn dropdown-toggle btn-secondary')]",
+                            "click" : true
+                        },
+                        {
+                            "link_text": "Training",
+                            "click": true
+                        },
+                        {
+                            "xpath": "(//*[@class='custom-select'])[1]",
+                            "select" : true,
+                            "select_text": "Must Not"
+                        },
+                        {
+                            "xpath": "(//*[@class='custom-select'])[2]",
+                            "select": true,
+                            "select_text": "Completed"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[1]",
+                            "click": true
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[2]/input",
+                            "value": "The Inside Man: Season 3 Ep 03"
+                        },
+                        {
+                            "xpath": "(//*[@class='multiselect__element'])[2]"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[2]/input",
+                            "special_key": "ENTER"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[1]",
+                            "click": true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn ml-2 btn-primary')]",
+                            "click" : true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn mt-3 btn-primary')]",
+                            "click" : true
+                        }
+                    ]
+                },
+                {
+                    "submitButtonXPath": "//*[contains(@class, 'btn mt-3 btn-primary')]",
+                    "values": [
+                        {
+                            "link_text": "TIM S03E04",
+                            "click": true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn dropdown-toggle btn-secondary')]",
+                            "click" : true
+                        },
+                        {
+                            "link_text": "Training",
+                            "click": true
+                        },
+                        {
+                            "xpath": "(//*[@class='custom-select'])[2]",
+                            "select": true,
+                            "select_text": "Completed"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[1]",
+                            "click": true
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[2]/input",
+                            "value": "The Inside Man: Season 3 Ep 03"
+                        },
+                        {
+                            "xpath": "(//*[@class='multiselect__element'])[2]"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[2]/input",
+                            "special_key": "ENTER"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[1]",
+                            "click": true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn ml-2 btn-primary')]",
+                            "click" : true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn dropdown-toggle btn-secondary')]",
+                            "click" : true
+                        },
+                        {
+                            "link_text": "Training",
+                            "click": true
+                        },
+                        {
+                            "xpath": "(//*[@class='custom-select'])[1]",
+                            "select" : true,
+                            "select_text": "Must Not"
+                        },
+                        {
+                            "xpath": "(//*[@class='custom-select'])[2]",
+                            "select": true,
+                            "select_text": "Completed"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[1]",
+                            "click": true
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[2]/input",
+                            "value": "The Inside Man: Season 3 Ep 04"
+                        },
+                        {
+                            "xpath": "(//*[@class='multiselect__element'])[2]"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[2]/input",
+                            "special_key": "ENTER"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[1]",
+                            "click": true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn ml-2 btn-primary')]",
+                            "click" : true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn mt-3 btn-primary')]",
+                            "click" : true
+                        }
+                    ]
+                },
+                {
+                    "submitButtonXPath": "//*[contains(@class, 'btn mt-3 btn-primary')]",
+                    "values": [
+                        {
+                            "link_text": "TIM S03E05",
+                            "click": true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn dropdown-toggle btn-secondary')]",
+                            "click" : true
+                        },
+                        {
+                            "link_text": "Training",
+                            "click": true
+                        },
+                        {
+                            "xpath": "(//*[@class='custom-select'])[2]",
+                            "select": true,
+                            "select_text": "Completed"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[1]",
+                            "click": true
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[2]/input",
+                            "value": "The Inside Man: Season 3 Ep 04"
+                        },
+                        {
+                            "xpath": "(//*[@class='multiselect__element'])[2]"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[2]/input",
+                            "special_key": "ENTER"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[1]",
+                            "click": true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn ml-2 btn-primary')]",
+                            "click" : true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn dropdown-toggle btn-secondary')]",
+                            "click" : true
+                        },
+                        {
+                            "link_text": "Training",
+                            "click": true
+                        },
+                        {
+                            "xpath": "(//*[@class='custom-select'])[1]",
+                            "select" : true,
+                            "select_text": "Must Not"
+                        },
+                        {
+                            "xpath": "(//*[@class='custom-select'])[2]",
+                            "select": true,
+                            "select_text": "Completed"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[1]",
+                            "click": true
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[2]/input",
+                            "value": "The Inside Man: Season 3 Ep 05"
+                        },
+                        {
+                            "xpath": "(//*[@class='multiselect__element'])[2]"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[2]/input",
+                            "special_key": "ENTER"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[1]",
+                            "click": true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn ml-2 btn-primary')]",
+                            "click" : true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn mt-3 btn-primary')]",
+                            "click" : true
+                        }
+                    ]
+                },
+                {
+                    "submitButtonXPath": "//*[contains(@class, 'btn mt-3 btn-primary')]",
+                    "values": [
+                        {
+                            "link_text": "TIM S03E06",
+                            "click": true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn dropdown-toggle btn-secondary')]",
+                            "click" : true
+                        },
+                        {
+                            "link_text": "Training",
+                            "click": true
+                        },
+                        {
+                            "xpath": "(//*[@class='custom-select'])[2]",
+                            "select": true,
+                            "select_text": "Completed"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[1]",
+                            "click": true
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[2]/input",
+                            "value": "The Inside Man: Season 3 Ep 05"
+                        },
+                        {
+                            "xpath": "(//*[@class='multiselect__element'])[2]"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[2]/input",
+                            "special_key": "ENTER"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[1]",
+                            "click": true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn ml-2 btn-primary')]",
+                            "click" : true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn dropdown-toggle btn-secondary')]",
+                            "click" : true
+                        },
+                        {
+                            "link_text": "Training",
+                            "click": true
+                        },
+                        {
+                            "xpath": "(//*[@class='custom-select'])[1]",
+                            "select" : true,
+                            "select_text": "Must Not"
+                        },
+                        {
+                            "xpath": "(//*[@class='custom-select'])[2]",
+                            "select": true,
+                            "select_text": "Completed"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[1]",
+                            "click": true
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[2]/input",
+                            "value": "The Inside Man: Season 3 Ep 06"
+                        },
+                        {
+                            "xpath": "(//*[@class='multiselect__element'])[2]"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[2]/input",
+                            "special_key": "ENTER"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[1]",
+                            "click": true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn ml-2 btn-primary')]",
+                            "click" : true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn mt-3 btn-primary')]",
+                            "click" : true
+                        }
+                    ]
+                },
+                {
+                    "submitButtonXPath": "//*[contains(@class, 'btn mt-3 btn-primary')]",
+                    "values": [
+                        {
+                            "link_text": "TIM S03E07",
+                            "click": true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn dropdown-toggle btn-secondary')]",
+                            "click" : true
+                        },
+                        {
+                            "link_text": "Training",
+                            "click": true
+                        },
+                        {
+                            "xpath": "(//*[@class='custom-select'])[2]",
+                            "select": true,
+                            "select_text": "Completed"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[1]",
+                            "click": true
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[2]/input",
+                            "value": "The Inside Man: Season 3 Ep 06"
+                        },
+                        {
+                            "xpath": "(//*[@class='multiselect__element'])[2]"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[2]/input",
+                            "special_key": "ENTER"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[1]",
+                            "click": true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn ml-2 btn-primary')]",
+                            "click" : true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn dropdown-toggle btn-secondary')]",
+                            "click" : true
+                        },
+                        {
+                            "link_text": "Training",
+                            "click": true
+                        },
+                        {
+                            "xpath": "(//*[@class='custom-select'])[1]",
+                            "select" : true,
+                            "select_text": "Must Not"
+                        },
+                        {
+                            "xpath": "(//*[@class='custom-select'])[2]",
+                            "select": true,
+                            "select_text": "Completed"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[1]",
+                            "click": true
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[2]/input",
+                            "value": "The Inside Man: Season 3 Ep 07"
+                        },
+                        {
+                            "xpath": "(//*[@class='multiselect__element'])[2]"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[2]/input",
+                            "special_key": "ENTER"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[1]",
+                            "click": true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn ml-2 btn-primary')]",
+                            "click" : true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn mt-3 btn-primary')]",
+                            "click" : true
+                        }
+                    ]
+                },
+                {
+                    "submitButtonXPath": "//*[contains(@class, 'btn mt-3 btn-primary')]",
+                    "values": [
+                        {
+                            "link_text": "TIM S03E08",
+                            "click": true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn dropdown-toggle btn-secondary')]",
+                            "click" : true
+                        },
+                        {
+                            "link_text": "Training",
+                            "click": true
+                        },
+                        {
+                            "xpath": "(//*[@class='custom-select'])[2]",
+                            "select": true,
+                            "select_text": "Completed"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[1]",
+                            "click": true
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[2]/input",
+                            "value": "The Inside Man: Season 3 Ep 07"
+                        },
+                        {
+                            "xpath": "(//*[@class='multiselect__element'])[2]"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[2]/input",
+                            "special_key": "ENTER"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[1]",
+                            "click": true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn ml-2 btn-primary')]",
+                            "click" : true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn dropdown-toggle btn-secondary')]",
+                            "click" : true
+                        },
+                        {
+                            "link_text": "Training",
+                            "click": true
+                        },
+                        {
+                            "xpath": "(//*[@class='custom-select'])[1]",
+                            "select" : true,
+                            "select_text": "Must Not"
+                        },
+                        {
+                            "xpath": "(//*[@class='custom-select'])[2]",
+                            "select": true,
+                            "select_text": "Completed"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[1]",
+                            "click": true
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[2]/input",
+                            "value": "The Inside Man: Season 3 Ep 08"
+                        },
+                        {
+                            "xpath": "(//*[@class='multiselect__element'])[2]"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[2]/input",
+                            "special_key": "ENTER"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[1]",
+                            "click": true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn ml-2 btn-primary')]",
+                            "click" : true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn mt-3 btn-primary')]",
+                            "click" : true
+                        }
+                    ]
+                },
+                {
+                    "submitButtonXPath": "//*[contains(@class, 'btn mt-3 btn-primary')]",
+                    "values": [
+                        {
+                            "link_text": "TIM S03E09",
+                            "click": true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn dropdown-toggle btn-secondary')]",
+                            "click" : true
+                        },
+                        {
+                            "link_text": "Training",
+                            "click": true
+                        },
+                        {
+                            "xpath": "(//*[@class='custom-select'])[2]",
+                            "select": true,
+                            "select_text": "Completed"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[1]",
+                            "click": true
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[2]/input",
+                            "value": "The Inside Man: Season 3 Ep 08"
+                        },
+                        {
+                            "xpath": "(//*[@class='multiselect__element'])[2]"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[2]/input",
+                            "special_key": "ENTER"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[1]",
+                            "click": true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn ml-2 btn-primary')]",
+                            "click" : true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn dropdown-toggle btn-secondary')]",
+                            "click" : true
+                        },
+                        {
+                            "link_text": "Training",
+                            "click": true
+                        },
+                        {
+                            "xpath": "(//*[@class='custom-select'])[1]",
+                            "select" : true,
+                            "select_text": "Must Not"
+                        },
+                        {
+                            "xpath": "(//*[@class='custom-select'])[2]",
+                            "select": true,
+                            "select_text": "Completed"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[1]",
+                            "click": true
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[2]/input",
+                            "value": "The Inside Man: Season 3 Ep 09"
+                        },
+                        {
+                            "xpath": "(//*[@class='multiselect__element'])[2]"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[2]/input",
+                            "special_key": "ENTER"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[1]",
+                            "click": true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn ml-2 btn-primary')]",
+                            "click" : true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn mt-3 btn-primary')]",
+                            "click" : true
+                        }
+                    ]
+                },
+                {
+                    "submitButtonXPath": "//*[contains(@class, 'btn mt-3 btn-primary')]",
+                    "values": [
+                        {
+                            "link_text": "TIM S03E10",
+                            "click": true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn dropdown-toggle btn-secondary')]",
+                            "click" : true
+                        },
+                        {
+                            "link_text": "Training",
+                            "click": true
+                        },
+                        {
+                            "xpath": "(//*[@class='custom-select'])[2]",
+                            "select": true,
+                            "select_text": "Completed"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[1]",
+                            "click": true
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[2]/input",
+                            "value": "The Inside Man: Season 3 Ep 09"
+                        },
+                        {
+                            "xpath": "(//*[@class='multiselect__element'])[2]"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[2]/input",
+                            "special_key": "ENTER"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[1]",
+                            "click": true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn ml-2 btn-primary')]",
+                            "click" : true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn dropdown-toggle btn-secondary')]",
+                            "click" : true
+                        },
+                        {
+                            "link_text": "Training",
+                            "click": true
+                        },
+                        {
+                            "xpath": "(//*[@class='custom-select'])[1]",
+                            "select" : true,
+                            "select_text": "Must Not"
+                        },
+                        {
+                            "xpath": "(//*[@class='custom-select'])[2]",
+                            "select": true,
+                            "select_text": "Completed"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[1]",
+                            "click": true
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[2]/input",
+                            "value": "The Inside Man: Season 3 Ep 10"
+                        },
+                        {
+                            "xpath": "(//*[@class='multiselect__element'])[2]"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[2]/input",
+                            "special_key": "ENTER"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[1]",
+                            "click": true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn ml-2 btn-primary')]",
+                            "click" : true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn mt-3 btn-primary')]",
+                            "click" : true
+                        }
+                    ]
+                },
+                {
+                    "submitButtonXPath": "//*[contains(@class, 'btn mt-3 btn-primary')]",
+                    "values": [
+                        {
+                            "link_text": "TIM S03E11",
+                            "click": true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn dropdown-toggle btn-secondary')]",
+                            "click" : true
+                        },
+                        {
+                            "link_text": "Training",
+                            "click": true
+                        },
+                        {
+                            "xpath": "(//*[@class='custom-select'])[2]",
+                            "select": true,
+                            "select_text": "Completed"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[1]",
+                            "click": true
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[2]/input",
+                            "value": "The Inside Man: Season 3 Ep 10"
+                        },
+                        {
+                            "xpath": "(//*[@class='multiselect__element'])[2]"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[2]/input",
+                            "special_key": "ENTER"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[1]",
+                            "click": true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn ml-2 btn-primary')]",
+                            "click" : true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn dropdown-toggle btn-secondary')]",
+                            "click" : true
+                        },
+                        {
+                            "link_text": "Training",
+                            "click": true
+                        },
+                        {
+                            "xpath": "(//*[@class='custom-select'])[1]",
+                            "select" : true,
+                            "select_text": "Must Not"
+                        },
+                        {
+                            "xpath": "(//*[@class='custom-select'])[2]",
+                            "select": true,
+                            "select_text": "Completed"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[1]",
+                            "click": true
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[2]/input",
+                            "value": "The Inside Man: Season 3 Ep 11"
+                        },
+                        {
+                            "xpath": "(//*[@class='multiselect__element'])[2]"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[2]/input",
+                            "special_key": "ENTER"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[1]",
+                            "click": true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn ml-2 btn-primary')]",
+                            "click" : true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn mt-3 btn-primary')]",
+                            "click" : true
+                        }
+                    ]
+                },
+                {
+                    "submitButtonXPath": "//*[contains(@class, 'btn mt-3 btn-primary')]",
+                    "values": [
+                        {
+                            "link_text": "TIM S03E12",
+                            "click": true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn dropdown-toggle btn-secondary')]",
+                            "click" : true
+                        },
+                        {
+                            "link_text": "Training",
+                            "click": true
+                        },
+                        {
+                            "xpath": "(//*[@class='custom-select'])[2]",
+                            "select": true,
+                            "select_text": "Completed"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[1]",
+                            "click": true
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[2]/input",
+                            "value": "The Inside Man: Season 3 Ep 11"
+                        },
+                        {
+                            "xpath": "(//*[@class='multiselect__element'])[2]"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[2]/input",
+                            "special_key": "ENTER"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[1]",
+                            "click": true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn ml-2 btn-primary')]",
+                            "click" : true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn dropdown-toggle btn-secondary')]",
+                            "click" : true
+                        },
+                        {
+                            "link_text": "Training",
+                            "click": true
+                        },
+                        {
+                            "xpath": "(//*[@class='custom-select'])[1]",
+                            "select" : true,
+                            "select_text": "Must Not"
+                        },
+                        {
+                            "xpath": "(//*[@class='custom-select'])[2]",
+                            "select": true,
+                            "select_text": "Completed"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[1]",
+                            "click": true
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[2]/input",
+                            "value": "The Inside Man: Season 3 Ep 12"
+                        },
+                        {
+                            "xpath": "(//*[@class='multiselect__element'])[2]"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[2]/input",
+                            "special_key": "ENTER"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[1]",
+                            "click": true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn ml-2 btn-primary')]",
+                            "click" : true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn mt-3 btn-primary')]",
+                            "click" : true
+                        }
+                    ]
+                },
+                {
+                    "submitButtonXPath": "//*[contains(@class, 'btn mt-3 btn-primary')]",
+                    "values": [
+                        {
+                            "link_text": "TIM S04E01",
+                            "click": true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn dropdown-toggle btn-secondary')]",
+                            "click" : true
+                        },
+                        {
+                            "link_text": "Training",
+                            "click": true
+                        },
+                        {
+                            "xpath": "(//*[@class='custom-select'])[2]",
+                            "select": true,
+                            "select_text": "Completed"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[1]",
+                            "click": true
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[2]/input",
+                            "value": "The Inside Man: Season 3 Ep 12"
+                        },
+                        {
+                            "xpath": "(//*[@class='multiselect__element'])[2]"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[2]/input",
+                            "special_key": "ENTER"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[1]",
+                            "click": true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn ml-2 btn-primary')]",
+                            "click" : true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn dropdown-toggle btn-secondary')]",
+                            "click" : true
+                        },
+                        {
+                            "link_text": "Training",
+                            "click": true
+                        },
+                        {
+                            "xpath": "(//*[@class='custom-select'])[1]",
+                            "select" : true,
+                            "select_text": "Must Not"
+                        },
+                        {
+                            "xpath": "(//*[@class='custom-select'])[2]",
+                            "select": true,
+                            "select_text": "Completed"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[1]",
+                            "click": true
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[2]/input",
+                            "value": "The Inside Man: Season 4 Ep 01"
+                        },
+                        {
+                            "xpath": "(//*[@class='multiselect__element'])[2]"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[2]/input",
+                            "special_key": "ENTER"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[1]",
+                            "click": true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn ml-2 btn-primary')]",
+                            "click" : true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn mt-3 btn-primary')]",
+                            "click" : true
+                        }
+                    ]
+                },
+                {
+                    "submitButtonXPath": "//*[contains(@class, 'btn mt-3 btn-primary')]",
+                    "values": [
+                        {
+                            "link_text": "TIM S04E02",
+                            "click": true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn dropdown-toggle btn-secondary')]",
+                            "click" : true
+                        },
+                        {
+                            "link_text": "Training",
+                            "click": true
+                        },
+                        {
+                            "xpath": "(//*[@class='custom-select'])[2]",
+                            "select": true,
+                            "select_text": "Completed"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[1]",
+                            "click": true
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[2]/input",
+                            "value": "The Inside Man: Season 4 Ep 01"
+                        },
+                        {
+                            "xpath": "(//*[@class='multiselect__element'])[2]"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[2]/input",
+                            "special_key": "ENTER"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[1]",
+                            "click": true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn ml-2 btn-primary')]",
+                            "click" : true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn dropdown-toggle btn-secondary')]",
+                            "click" : true
+                        },
+                        {
+                            "link_text": "Training",
+                            "click": true
+                        },
+                        {
+                            "xpath": "(//*[@class='custom-select'])[1]",
+                            "select" : true,
+                            "select_text": "Must Not"
+                        },
+                        {
+                            "xpath": "(//*[@class='custom-select'])[2]",
+                            "select": true,
+                            "select_text": "Completed"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[1]",
+                            "click": true
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[2]/input",
+                            "value": "The Inside Man: Season 4 Ep 02"
+                        },
+                        {
+                            "xpath": "(//*[@class='multiselect__element'])[2]"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[2]/input",
+                            "special_key": "ENTER"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[1]",
+                            "click": true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn ml-2 btn-primary')]",
+                            "click" : true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn mt-3 btn-primary')]",
+                            "click" : true
+                        }
+                    ]
+                },
+                {
+                    "submitButtonXPath": "//*[contains(@class, 'btn mt-3 btn-primary')]",
+                    "values": [
+                        {
+                            "link_text": "TIM S04E03",
+                            "click": true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn dropdown-toggle btn-secondary')]",
+                            "click" : true
+                        },
+                        {
+                            "link_text": "Training",
+                            "click": true
+                        },
+                        {
+                            "xpath": "(//*[@class='custom-select'])[2]",
+                            "select": true,
+                            "select_text": "Completed"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[1]",
+                            "click": true
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[2]/input",
+                            "value": "The Inside Man: Season 4 Ep 02"
+                        },
+                        {
+                            "xpath": "(//*[@class='multiselect__element'])[2]"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[2]/input",
+                            "special_key": "ENTER"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[1]",
+                            "click": true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn ml-2 btn-primary')]",
+                            "click" : true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn dropdown-toggle btn-secondary')]",
+                            "click" : true
+                        },
+                        {
+                            "link_text": "Training",
+                            "click": true
+                        },
+                        {
+                            "xpath": "(//*[@class='custom-select'])[1]",
+                            "select" : true,
+                            "select_text": "Must Not"
+                        },
+                        {
+                            "xpath": "(//*[@class='custom-select'])[2]",
+                            "select": true,
+                            "select_text": "Completed"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[1]",
+                            "click": true
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[2]/input",
+                            "value": "The Inside Man: Season 4 Ep 03"
+                        },
+                        {
+                            "xpath": "(//*[@class='multiselect__element'])[2]"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[2]/input",
+                            "special_key": "ENTER"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[1]",
+                            "click": true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn ml-2 btn-primary')]",
+                            "click" : true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn mt-3 btn-primary')]",
+                            "click" : true
+                        }
+                    ]
+                },
+                {
+                    "submitButtonXPath": "//*[contains(@class, 'btn mt-3 btn-primary')]",
+                    "values": [
+                        {
+                            "link_text": "TIM S04E04",
+                            "click": true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn dropdown-toggle btn-secondary')]",
+                            "click" : true
+                        },
+                        {
+                            "link_text": "Training",
+                            "click": true
+                        },
+                        {
+                            "xpath": "(//*[@class='custom-select'])[2]",
+                            "select": true,
+                            "select_text": "Completed"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[1]",
+                            "click": true
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[2]/input",
+                            "value": "The Inside Man: Season 4 Ep 03"
+                        },
+                        {
+                            "xpath": "(//*[@class='multiselect__element'])[2]"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[2]/input",
+                            "special_key": "ENTER"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[1]",
+                            "click": true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn ml-2 btn-primary')]",
+                            "click" : true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn dropdown-toggle btn-secondary')]",
+                            "click" : true
+                        },
+                        {
+                            "link_text": "Training",
+                            "click": true
+                        },
+                        {
+                            "xpath": "(//*[@class='custom-select'])[1]",
+                            "select" : true,
+                            "select_text": "Must Not"
+                        },
+                        {
+                            "xpath": "(//*[@class='custom-select'])[2]",
+                            "select": true,
+                            "select_text": "Completed"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[1]",
+                            "click": true
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[2]/input",
+                            "value": "The Inside Man: Season 4 Ep 04"
+                        },
+                        {
+                            "xpath": "(//*[@class='multiselect__element'])[2]"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[2]/input",
+                            "special_key": "ENTER"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[1]",
+                            "click": true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn ml-2 btn-primary')]",
+                            "click" : true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn mt-3 btn-primary')]",
+                            "click" : true
+                        }
+                    ]
+                },
+                {
+                    "submitButtonXPath": "//*[contains(@class, 'btn mt-3 btn-primary')]",
+                    "values": [
+                        {
+                            "link_text": "TIM S04E05",
+                            "click": true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn dropdown-toggle btn-secondary')]",
+                            "click" : true
+                        },
+                        {
+                            "link_text": "Training",
+                            "click": true
+                        },
+                        {
+                            "xpath": "(//*[@class='custom-select'])[2]",
+                            "select": true,
+                            "select_text": "Completed"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[1]",
+                            "click": true
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[2]/input",
+                            "value": "The Inside Man: Season 4 Ep 04"
+                        },
+                        {
+                            "xpath": "(//*[@class='multiselect__element'])[2]"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[2]/input",
+                            "special_key": "ENTER"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[1]",
+                            "click": true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn ml-2 btn-primary')]",
+                            "click" : true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn dropdown-toggle btn-secondary')]",
+                            "click" : true
+                        },
+                        {
+                            "link_text": "Training",
+                            "click": true
+                        },
+                        {
+                            "xpath": "(//*[@class='custom-select'])[1]",
+                            "select" : true,
+                            "select_text": "Must Not"
+                        },
+                        {
+                            "xpath": "(//*[@class='custom-select'])[2]",
+                            "select": true,
+                            "select_text": "Completed"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[1]",
+                            "click": true
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[2]/input",
+                            "value": "The Inside Man: Season 4 Ep 05"
+                        },
+                        {
+                            "xpath": "(//*[@class='multiselect__element'])[2]"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[2]/input",
+                            "special_key": "ENTER"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[1]",
+                            "click": true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn ml-2 btn-primary')]",
+                            "click" : true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn mt-3 btn-primary')]",
+                            "click" : true
+                        }
+                    ]
+                },
+                {
+                    "submitButtonXPath": "//*[contains(@class, 'btn mt-3 btn-primary')]",
+                    "values": [
+                        {
+                            "link_text": "TIM S04E06",
+                            "click": true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn dropdown-toggle btn-secondary')]",
+                            "click" : true
+                        },
+                        {
+                            "link_text": "Training",
+                            "click": true
+                        },
+                        {
+                            "xpath": "(//*[@class='custom-select'])[2]",
+                            "select": true,
+                            "select_text": "Completed"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[1]",
+                            "click": true
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[2]/input",
+                            "value": "The Inside Man: Season 4 Ep 05"
+                        },
+                        {
+                            "xpath": "(//*[@class='multiselect__element'])[2]"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[2]/input",
+                            "special_key": "ENTER"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[1]",
+                            "click": true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn ml-2 btn-primary')]",
+                            "click" : true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn dropdown-toggle btn-secondary')]",
+                            "click" : true
+                        },
+                        {
+                            "link_text": "Training",
+                            "click": true
+                        },
+                        {
+                            "xpath": "(//*[@class='custom-select'])[1]",
+                            "select" : true,
+                            "select_text": "Must Not"
+                        },
+                        {
+                            "xpath": "(//*[@class='custom-select'])[2]",
+                            "select": true,
+                            "select_text": "Completed"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[1]",
+                            "click": true
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[2]/input",
+                            "value": "The Inside Man: Season 4 Ep 06"
+                        },
+                        {
+                            "xpath": "(//*[@class='multiselect__element'])[2]"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[2]/input",
+                            "special_key": "ENTER"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[1]",
+                            "click": true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn ml-2 btn-primary')]",
+                            "click" : true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn mt-3 btn-primary')]",
+                            "click" : true
+                        }
+                    ]
+                },
+                {
+                    "submitButtonXPath": "//*[contains(@class, 'btn mt-3 btn-primary')]",
+                    "values": [
+                        {
+                            "link_text": "TIM S04E07",
+                            "click": true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn dropdown-toggle btn-secondary')]",
+                            "click" : true
+                        },
+                        {
+                            "link_text": "Training",
+                            "click": true
+                        },
+                        {
+                            "xpath": "(//*[@class='custom-select'])[2]",
+                            "select": true,
+                            "select_text": "Completed"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[1]",
+                            "click": true
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[2]/input",
+                            "value": "The Inside Man: Season 4 Ep 06"
+                        },
+                        {
+                            "xpath": "(//*[@class='multiselect__element'])[2]"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[2]/input",
+                            "special_key": "ENTER"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[1]",
+                            "click": true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn ml-2 btn-primary')]",
+                            "click" : true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn dropdown-toggle btn-secondary')]",
+                            "click" : true
+                        },
+                        {
+                            "link_text": "Training",
+                            "click": true
+                        },
+                        {
+                            "xpath": "(//*[@class='custom-select'])[1]",
+                            "select" : true,
+                            "select_text": "Must Not"
+                        },
+                        {
+                            "xpath": "(//*[@class='custom-select'])[2]",
+                            "select": true,
+                            "select_text": "Completed"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[1]",
+                            "click": true
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[2]/input",
+                            "value": "The Inside Man: Season 4 Ep 07"
+                        },
+                        {
+                            "xpath": "(//*[@class='multiselect__element'])[2]"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[2]/input",
+                            "special_key": "ENTER"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[1]",
+                            "click": true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn ml-2 btn-primary')]",
+                            "click" : true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn mt-3 btn-primary')]",
+                            "click" : true
+                        }
+                    ]
+                },
+                {
+                    "submitButtonXPath": "//*[contains(@class, 'btn mt-3 btn-primary')]",
+                    "values": [
+                        {
+                            "link_text": "TIM S04E08",
+                            "click": true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn dropdown-toggle btn-secondary')]",
+                            "click" : true
+                        },
+                        {
+                            "link_text": "Training",
+                            "click": true
+                        },
+                        {
+                            "xpath": "(//*[@class='custom-select'])[2]",
+                            "select": true,
+                            "select_text": "Completed"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[1]",
+                            "click": true
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[2]/input",
+                            "value": "The Inside Man: Season 4 Ep 07"
+                        },
+                        {
+                            "xpath": "(//*[@class='multiselect__element'])[2]"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[2]/input",
+                            "special_key": "ENTER"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[1]",
+                            "click": true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn ml-2 btn-primary')]",
+                            "click" : true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn dropdown-toggle btn-secondary')]",
+                            "click" : true
+                        },
+                        {
+                            "link_text": "Training",
+                            "click": true
+                        },
+                        {
+                            "xpath": "(//*[@class='custom-select'])[1]",
+                            "select" : true,
+                            "select_text": "Must Not"
+                        },
+                        {
+                            "xpath": "(//*[@class='custom-select'])[2]",
+                            "select": true,
+                            "select_text": "Completed"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[1]",
+                            "click": true
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[2]/input",
+                            "value": "The Inside Man: Season 4 Ep 08"
+                        },
+                        {
+                            "xpath": "(//*[@class='multiselect__element'])[2]"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[2]/input",
+                            "special_key": "ENTER"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[1]",
+                            "click": true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn ml-2 btn-primary')]",
+                            "click" : true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn mt-3 btn-primary')]",
+                            "click" : true
+                        }
+                    ]
+                },
+                {
+                    "submitButtonXPath": "//*[contains(@class, 'btn mt-3 btn-primary')]",
+                    "values": [
+                        {
+                            "link_text": "TIM S04E09",
+                            "click": true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn dropdown-toggle btn-secondary')]",
+                            "click" : true
+                        },
+                        {
+                            "link_text": "Training",
+                            "click": true
+                        },
+                        {
+                            "xpath": "(//*[@class='custom-select'])[2]",
+                            "select": true,
+                            "select_text": "Completed"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[1]",
+                            "click": true
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[2]/input",
+                            "value": "The Inside Man: Season 4 Ep 08"
+                        },
+                        {
+                            "xpath": "(//*[@class='multiselect__element'])[2]"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[2]/input",
+                            "special_key": "ENTER"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[1]",
+                            "click": true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn ml-2 btn-primary')]",
+                            "click" : true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn dropdown-toggle btn-secondary')]",
+                            "click" : true
+                        },
+                        {
+                            "link_text": "Training",
+                            "click": true
+                        },
+                        {
+                            "xpath": "(//*[@class='custom-select'])[1]",
+                            "select" : true,
+                            "select_text": "Must Not"
+                        },
+                        {
+                            "xpath": "(//*[@class='custom-select'])[2]",
+                            "select": true,
+                            "select_text": "Completed"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[1]",
+                            "click": true
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[2]/input",
+                            "value": "The Inside Man: Season 4 Ep 09"
+                        },
+                        {
+                            "xpath": "(//*[@class='multiselect__element'])[2]"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[2]/input",
+                            "special_key": "ENTER"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[1]",
+                            "click": true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn ml-2 btn-primary')]",
+                            "click" : true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn mt-3 btn-primary')]",
+                            "click" : true
+                        }
+                    ]
+                },
+                {
+                    "submitButtonXPath": "//*[contains(@class, 'btn mt-3 btn-primary')]",
+                    "values": [
+                        {
+                            "link_text": "TIM S04E10",
+                            "click": true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn dropdown-toggle btn-secondary')]",
+                            "click" : true
+                        },
+                        {
+                            "link_text": "Training",
+                            "click": true
+                        },
+                        {
+                            "xpath": "(//*[@class='custom-select'])[2]",
+                            "select": true,
+                            "select_text": "Completed"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[1]",
+                            "click": true
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[2]/input",
+                            "value": "The Inside Man: Season 4 Ep 09"
+                        },
+                        {
+                            "xpath": "(//*[@class='multiselect__element'])[2]"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[2]/input",
+                            "special_key": "ENTER"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[1]",
+                            "click": true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn ml-2 btn-primary')]",
+                            "click" : true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn dropdown-toggle btn-secondary')]",
+                            "click" : true
+                        },
+                        {
+                            "link_text": "Training",
+                            "click": true
+                        },
+                        {
+                            "xpath": "(//*[@class='custom-select'])[1]",
+                            "select" : true,
+                            "select_text": "Must Not"
+                        },
+                        {
+                            "xpath": "(//*[@class='custom-select'])[2]",
+                            "select": true,
+                            "select_text": "Completed"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[1]",
+                            "click": true
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[2]/input",
+                            "value": "The Inside Man: Season 4 Ep 10"
+                        },
+                        {
+                            "xpath": "(//*[@class='multiselect__element'])[2]"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[2]/input",
+                            "special_key": "ENTER"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[1]",
+                            "click": true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn ml-2 btn-primary')]",
+                            "click" : true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn mt-3 btn-primary')]",
+                            "click" : true
+                        }
+                    ]
+                },
+                {
+                    "submitButtonXPath": "//*[contains(@class, 'btn mt-3 btn-primary')]",
+                    "values": [
+                        {
+                            "link_text": "TIM S04E11",
+                            "click": true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn dropdown-toggle btn-secondary')]",
+                            "click" : true
+                        },
+                        {
+                            "link_text": "Training",
+                            "click": true
+                        },
+                        {
+                            "xpath": "(//*[@class='custom-select'])[2]",
+                            "select": true,
+                            "select_text": "Completed"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[1]",
+                            "click": true
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[2]/input",
+                            "value": "The Inside Man: Season 4 Ep 10"
+                        },
+                        {
+                            "xpath": "(//*[@class='multiselect__element'])[2]"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[2]/input",
+                            "special_key": "ENTER"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[1]",
+                            "click": true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn ml-2 btn-primary')]",
+                            "click" : true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn dropdown-toggle btn-secondary')]",
+                            "click" : true
+                        },
+                        {
+                            "link_text": "Training",
+                            "click": true
+                        },
+                        {
+                            "xpath": "(//*[@class='custom-select'])[1]",
+                            "select" : true,
+                            "select_text": "Must Not"
+                        },
+                        {
+                            "xpath": "(//*[@class='custom-select'])[2]",
+                            "select": true,
+                            "select_text": "Completed"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[1]",
+                            "click": true
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[2]/input",
+                            "value": "The Inside Man: Season 4 Ep 11"
+                        },
+                        {
+                            "xpath": "(//*[@class='multiselect__element'])[2]"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[2]/input",
+                            "special_key": "ENTER"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[1]",
+                            "click": true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn ml-2 btn-primary')]",
+                            "click" : true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn mt-3 btn-primary')]",
+                            "click" : true
+                        }
+                    ]
+                },
+                {
+                    "submitButtonXPath": "//*[contains(@class, 'btn mt-3 btn-primary')]",
+                    "values": [
+                        {
+                            "link_text": "TIM S04E12",
+                            "click": true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn dropdown-toggle btn-secondary')]",
+                            "click" : true
+                        },
+                        {
+                            "link_text": "Training",
+                            "click": true
+                        },
+                        {
+                            "xpath": "(//*[@class='custom-select'])[2]",
+                            "select": true,
+                            "select_text": "Completed"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[1]",
+                            "click": true
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[2]/input",
+                            "value": "The Inside Man: Season 4 Ep 11"
+                        },
+                        {
+                            "xpath": "(//*[@class='multiselect__element'])[2]"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[2]/input",
+                            "special_key": "ENTER"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[1]",
+                            "click": true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn ml-2 btn-primary')]",
+                            "click" : true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn dropdown-toggle btn-secondary')]",
+                            "click" : true
+                        },
+                        {
+                            "link_text": "Training",
+                            "click": true
+                        },
+                        {
+                            "xpath": "(//*[@class='custom-select'])[1]",
+                            "select" : true,
+                            "select_text": "Must Not"
+                        },
+                        {
+                            "xpath": "(//*[@class='custom-select'])[2]",
+                            "select": true,
+                            "select_text": "Completed"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[1]",
+                            "click": true
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[2]/input",
+                            "value": "The Inside Man: Season 4 Ep 12"
+                        },
+                        {
+                            "xpath": "(//*[@class='multiselect__element'])[2]"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[2]/input",
+                            "special_key": "ENTER"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[1]",
+                            "click": true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn ml-2 btn-primary')]",
+                            "click" : true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn mt-3 btn-primary')]",
+                            "click" : true
+                        }
+                    ]
+                },
+                {
+                    "submitButtonXPath": "//*[contains(@class, 'btn mt-3 btn-primary')]",
+                    "values": [
+                        {
+                            "link_text": "TIM S05E01",
+                            "click": true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn dropdown-toggle btn-secondary')]",
+                            "click" : true
+                        },
+                        {
+                            "link_text": "Training",
+                            "click": true
+                        },
+                        {
+                            "xpath": "(//*[@class='custom-select'])[2]",
+                            "select": true,
+                            "select_text": "Completed"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[1]",
+                            "click": true
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[2]/input",
+                            "value": "The Inside Man: Season 4 Ep 12"
+                        },
+                        {
+                            "xpath": "(//*[@class='multiselect__element'])[2]"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[2]/input",
+                            "special_key": "ENTER"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[1]",
+                            "click": true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn ml-2 btn-primary')]",
+                            "click" : true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn dropdown-toggle btn-secondary')]",
+                            "click" : true
+                        },
+                        {
+                            "link_text": "Training",
+                            "click": true
+                        },
+                        {
+                            "xpath": "(//*[@class='custom-select'])[1]",
+                            "select" : true,
+                            "select_text": "Must Not"
+                        },
+                        {
+                            "xpath": "(//*[@class='custom-select'])[2]",
+                            "select": true,
+                            "select_text": "Completed"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[1]",
+                            "click": true
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[2]/input",
+                            "value": "The Inside Man: Season 5 Ep 01"
+                        },
+                        {
+                            "xpath": "(//*[@class='multiselect__element'])[2]"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[2]/input",
+                            "special_key": "ENTER"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[1]",
+                            "click": true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn ml-2 btn-primary')]",
+                            "click" : true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn mt-3 btn-primary')]",
+                            "click" : true
+                        }
+                    ]
+                },
+                {
+                    "submitButtonXPath": "//*[contains(@class, 'btn mt-3 btn-primary')]",
+                    "values": [
+                        {
+                            "link_text": "TIM S05E02",
+                            "click": true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn dropdown-toggle btn-secondary')]",
+                            "click" : true
+                        },
+                        {
+                            "link_text": "Training",
+                            "click": true
+                        },
+                        {
+                            "xpath": "(//*[@class='custom-select'])[2]",
+                            "select": true,
+                            "select_text": "Completed"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[1]",
+                            "click": true
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[2]/input",
+                            "value": "The Inside Man: Season 5 Ep 01"
+                        },
+                        {
+                            "xpath": "(//*[@class='multiselect__element'])[2]"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[2]/input",
+                            "special_key": "ENTER"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[1]",
+                            "click": true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn ml-2 btn-primary')]",
+                            "click" : true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn dropdown-toggle btn-secondary')]",
+                            "click" : true
+                        },
+                        {
+                            "link_text": "Training",
+                            "click": true
+                        },
+                        {
+                            "xpath": "(//*[@class='custom-select'])[1]",
+                            "select" : true,
+                            "select_text": "Must Not"
+                        },
+                        {
+                            "xpath": "(//*[@class='custom-select'])[2]",
+                            "select": true,
+                            "select_text": "Completed"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[1]",
+                            "click": true
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[2]/input",
+                            "value": "The Inside Man: Season 5 Ep 02"
+                        },
+                        {
+                            "xpath": "(//*[@class='multiselect__element'])[2]"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[2]/input",
+                            "special_key": "ENTER"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[1]",
+                            "click": true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn ml-2 btn-primary')]",
+                            "click" : true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn mt-3 btn-primary')]",
+                            "click" : true
+                        }
+                    ]
+                },
+                {
+                    "submitButtonXPath": "//*[contains(@class, 'btn mt-3 btn-primary')]",
+                    "values": [
+                        {
+                            "link_text": "TIM S05E03",
+                            "click": true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn dropdown-toggle btn-secondary')]",
+                            "click" : true
+                        },
+                        {
+                            "link_text": "Training",
+                            "click": true
+                        },
+                        {
+                            "xpath": "(//*[@class='custom-select'])[2]",
+                            "select": true,
+                            "select_text": "Completed"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[1]",
+                            "click": true
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[2]/input",
+                            "value": "The Inside Man: Season 5 Ep 02"
+                        },
+                        {
+                            "xpath": "(//*[@class='multiselect__element'])[2]"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[2]/input",
+                            "special_key": "ENTER"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[1]",
+                            "click": true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn ml-2 btn-primary')]",
+                            "click" : true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn dropdown-toggle btn-secondary')]",
+                            "click" : true
+                        },
+                        {
+                            "link_text": "Training",
+                            "click": true
+                        },
+                        {
+                            "xpath": "(//*[@class='custom-select'])[1]",
+                            "select" : true,
+                            "select_text": "Must Not"
+                        },
+                        {
+                            "xpath": "(//*[@class='custom-select'])[2]",
+                            "select": true,
+                            "select_text": "Completed"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[1]",
+                            "click": true
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[2]/input",
+                            "value": "The Inside Man: Season 5 Ep 03"
+                        },
+                        {
+                            "xpath": "(//*[@class='multiselect__element'])[2]"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[2]/input",
+                            "special_key": "ENTER"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[1]",
+                            "click": true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn ml-2 btn-primary')]",
+                            "click" : true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn mt-3 btn-primary')]",
+                            "click" : true
+                        }
+                    ]
+                },
+                {
+                    "submitButtonXPath": "//*[contains(@class, 'btn mt-3 btn-primary')]",
+                    "values": [
+                        {
+                            "link_text": "TIM S05E04",
+                            "click": true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn dropdown-toggle btn-secondary')]",
+                            "click" : true
+                        },
+                        {
+                            "link_text": "Training",
+                            "click": true
+                        },
+                        {
+                            "xpath": "(//*[@class='custom-select'])[2]",
+                            "select": true,
+                            "select_text": "Completed"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[1]",
+                            "click": true
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[2]/input",
+                            "value": "The Inside Man: Season 5 Ep 03"
+                        },
+                        {
+                            "xpath": "(//*[@class='multiselect__element'])[2]"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[2]/input",
+                            "special_key": "ENTER"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[1]",
+                            "click": true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn ml-2 btn-primary')]",
+                            "click" : true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn dropdown-toggle btn-secondary')]",
+                            "click" : true
+                        },
+                        {
+                            "link_text": "Training",
+                            "click": true
+                        },
+                        {
+                            "xpath": "(//*[@class='custom-select'])[1]",
+                            "select" : true,
+                            "select_text": "Must Not"
+                        },
+                        {
+                            "xpath": "(//*[@class='custom-select'])[2]",
+                            "select": true,
+                            "select_text": "Completed"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[1]",
+                            "click": true
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[2]/input",
+                            "value": "The Inside Man: Season 5 Ep 04"
+                        },
+                        {
+                            "xpath": "(//*[@class='multiselect__element'])[2]"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[2]/input",
+                            "special_key": "ENTER"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[1]",
+                            "click": true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn ml-2 btn-primary')]",
+                            "click" : true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn mt-3 btn-primary')]",
+                            "click" : true
+                        }
+                    ]
+                },
+                {
+                    "submitButtonXPath": "//*[contains(@class, 'btn mt-3 btn-primary')]",
+                    "values": [
+                        {
+                            "link_text": "TIM S05E05",
+                            "click": true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn dropdown-toggle btn-secondary')]",
+                            "click" : true
+                        },
+                        {
+                            "link_text": "Training",
+                            "click": true
+                        },
+                        {
+                            "xpath": "(//*[@class='custom-select'])[2]",
+                            "select": true,
+                            "select_text": "Completed"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[1]",
+                            "click": true
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[2]/input",
+                            "value": "The Inside Man: Season 5 Ep 04"
+                        },
+                        {
+                            "xpath": "(//*[@class='multiselect__element'])[2]"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[2]/input",
+                            "special_key": "ENTER"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[1]",
+                            "click": true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn ml-2 btn-primary')]",
+                            "click" : true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn dropdown-toggle btn-secondary')]",
+                            "click" : true
+                        },
+                        {
+                            "link_text": "Training",
+                            "click": true
+                        },
+                        {
+                            "xpath": "(//*[@class='custom-select'])[1]",
+                            "select" : true,
+                            "select_text": "Must Not"
+                        },
+                        {
+                            "xpath": "(//*[@class='custom-select'])[2]",
+                            "select": true,
+                            "select_text": "Completed"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[1]",
+                            "click": true
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[2]/input",
+                            "value": "The Inside Man: Season 5 Ep 05"
+                        },
+                        {
+                            "xpath": "(//*[@class='multiselect__element'])[2]"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[2]/input",
+                            "special_key": "ENTER"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[1]",
+                            "click": true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn ml-2 btn-primary')]",
+                            "click" : true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn mt-3 btn-primary')]",
+                            "click" : true
+                        }
+                    ]
+                },
+                {
+                    "submitButtonXPath": "//*[contains(@class, 'btn mt-3 btn-primary')]",
+                    "values": [
+                        {
+                            "link_text": "TIM S05E06",
+                            "click": true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn dropdown-toggle btn-secondary')]",
+                            "click" : true
+                        },
+                        {
+                            "link_text": "Training",
+                            "click": true
+                        },
+                        {
+                            "xpath": "(//*[@class='custom-select'])[2]",
+                            "select": true,
+                            "select_text": "Completed"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[1]",
+                            "click": true
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[2]/input",
+                            "value": "The Inside Man: Season 5 Ep 05"
+                        },
+                        {
+                            "xpath": "(//*[@class='multiselect__element'])[2]"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[2]/input",
+                            "special_key": "ENTER"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[1]",
+                            "click": true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn ml-2 btn-primary')]",
+                            "click" : true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn dropdown-toggle btn-secondary')]",
+                            "click" : true
+                        },
+                        {
+                            "link_text": "Training",
+                            "click": true
+                        },
+                        {
+                            "xpath": "(//*[@class='custom-select'])[1]",
+                            "select" : true,
+                            "select_text": "Must Not"
+                        },
+                        {
+                            "xpath": "(//*[@class='custom-select'])[2]",
+                            "select": true,
+                            "select_text": "Completed"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[1]",
+                            "click": true
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[2]/input",
+                            "value": "The Inside Man: Season 5 Ep 06"
+                        },
+                        {
+                            "xpath": "(//*[@class='multiselect__element'])[2]"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[2]/input",
+                            "special_key": "ENTER"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[1]",
+                            "click": true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn ml-2 btn-primary')]",
+                            "click" : true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn mt-3 btn-primary')]",
+                            "click" : true
+                        }
+                    ]
+                },
+                {
+                    "submitButtonXPath": "//*[contains(@class, 'btn mt-3 btn-primary')]",
+                    "values": [
+                        {
+                            "link_text": "TIM S05E07",
+                            "click": true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn dropdown-toggle btn-secondary')]",
+                            "click" : true
+                        },
+                        {
+                            "link_text": "Training",
+                            "click": true
+                        },
+                        {
+                            "xpath": "(//*[@class='custom-select'])[2]",
+                            "select": true,
+                            "select_text": "Completed"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[1]",
+                            "click": true
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[2]/input",
+                            "value": "The Inside Man: Season 5 Ep 06"
+                        },
+                        {
+                            "xpath": "(//*[@class='multiselect__element'])[2]"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[2]/input",
+                            "special_key": "ENTER"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[1]",
+                            "click": true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn ml-2 btn-primary')]",
+                            "click" : true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn dropdown-toggle btn-secondary')]",
+                            "click" : true
+                        },
+                        {
+                            "link_text": "Training",
+                            "click": true
+                        },
+                        {
+                            "xpath": "(//*[@class='custom-select'])[1]",
+                            "select" : true,
+                            "select_text": "Must Not"
+                        },
+                        {
+                            "xpath": "(//*[@class='custom-select'])[2]",
+                            "select": true,
+                            "select_text": "Completed"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[1]",
+                            "click": true
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[2]/input",
+                            "value": "The Inside Man: Season 5 Ep 07"
+                        },
+                        {
+                            "xpath": "(//*[@class='multiselect__element'])[2]"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[2]/input",
+                            "special_key": "ENTER"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[1]",
+                            "click": true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn ml-2 btn-primary')]",
+                            "click" : true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn mt-3 btn-primary')]",
+                            "click" : true
+                        }
+                    ]
+                },
+                {
+                    "submitButtonXPath": "//*[contains(@class, 'btn mt-3 btn-primary')]",
+                    "values": [
+                        {
+                            "link_text": "TIM S05E08",
+                            "click": true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn dropdown-toggle btn-secondary')]",
+                            "click" : true
+                        },
+                        {
+                            "link_text": "Training",
+                            "click": true
+                        },
+                        {
+                            "xpath": "(//*[@class='custom-select'])[2]",
+                            "select": true,
+                            "select_text": "Completed"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[1]",
+                            "click": true
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[2]/input",
+                            "value": "The Inside Man: Season 5 Ep 07"
+                        },
+                        {
+                            "xpath": "(//*[@class='multiselect__element'])[2]"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[2]/input",
+                            "special_key": "ENTER"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[1]",
+                            "click": true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn ml-2 btn-primary')]",
+                            "click" : true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn dropdown-toggle btn-secondary')]",
+                            "click" : true
+                        },
+                        {
+                            "link_text": "Training",
+                            "click": true
+                        },
+                        {
+                            "xpath": "(//*[@class='custom-select'])[1]",
+                            "select" : true,
+                            "select_text": "Must Not"
+                        },
+                        {
+                            "xpath": "(//*[@class='custom-select'])[2]",
+                            "select": true,
+                            "select_text": "Completed"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[1]",
+                            "click": true
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[2]/input",
+                            "value": "The Inside Man: Season 5 Ep 08"
+                        },
+                        {
+                            "xpath": "(//*[@class='multiselect__element'])[2]"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[2]/input",
+                            "special_key": "ENTER"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[1]",
+                            "click": true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn ml-2 btn-primary')]",
+                            "click" : true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn mt-3 btn-primary')]",
+                            "click" : true
+                        }
+                    ]
+                },
+                {
+                    "submitButtonXPath": "//*[contains(@class, 'btn mt-3 btn-primary')]",
+                    "values": [
+                        {
+                            "link_text": "TIM S05E09",
+                            "click": true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn dropdown-toggle btn-secondary')]",
+                            "click" : true
+                        },
+                        {
+                            "link_text": "Training",
+                            "click": true
+                        },
+                        {
+                            "xpath": "(//*[@class='custom-select'])[2]",
+                            "select": true,
+                            "select_text": "Completed"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[1]",
+                            "click": true
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[2]/input",
+                            "value": "The Inside Man: Season 5 Ep 08"
+                        },
+                        {
+                            "xpath": "(//*[@class='multiselect__element'])[2]"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[2]/input",
+                            "special_key": "ENTER"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[1]",
+                            "click": true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn ml-2 btn-primary')]",
+                            "click" : true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn dropdown-toggle btn-secondary')]",
+                            "click" : true
+                        },
+                        {
+                            "link_text": "Training",
+                            "click": true
+                        },
+                        {
+                            "xpath": "(//*[@class='custom-select'])[1]",
+                            "select" : true,
+                            "select_text": "Must Not"
+                        },
+                        {
+                            "xpath": "(//*[@class='custom-select'])[2]",
+                            "select": true,
+                            "select_text": "Completed"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[1]",
+                            "click": true
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[2]/input",
+                            "value": "The Inside Man: Season 5 Ep 09"
+                        },
+                        {
+                            "xpath": "(//*[@class='multiselect__element'])[2]"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[2]/input",
+                            "special_key": "ENTER"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[1]",
+                            "click": true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn ml-2 btn-primary')]",
+                            "click" : true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn mt-3 btn-primary')]",
+                            "click" : true
+                        }
+                    ]
+                },
+                {
+                    "submitButtonXPath": "//*[contains(@class, 'btn mt-3 btn-primary')]",
+                    "values": [
+                        {
+                            "link_text": "TIM S05E10",
+                            "click": true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn dropdown-toggle btn-secondary')]",
+                            "click" : true
+                        },
+                        {
+                            "link_text": "Training",
+                            "click": true
+                        },
+                        {
+                            "xpath": "(//*[@class='custom-select'])[2]",
+                            "select": true,
+                            "select_text": "Completed"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[1]",
+                            "click": true
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[2]/input",
+                            "value": "The Inside Man: Season 5 Ep 09"
+                        },
+                        {
+                            "xpath": "(//*[@class='multiselect__element'])[2]"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[2]/input",
+                            "special_key": "ENTER"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[1]",
+                            "click": true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn ml-2 btn-primary')]",
+                            "click" : true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn dropdown-toggle btn-secondary')]",
+                            "click" : true
+                        },
+                        {
+                            "link_text": "Training",
+                            "click": true
+                        },
+                        {
+                            "xpath": "(//*[@class='custom-select'])[1]",
+                            "select" : true,
+                            "select_text": "Must Not"
+                        },
+                        {
+                            "xpath": "(//*[@class='custom-select'])[2]",
+                            "select": true,
+                            "select_text": "Completed"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[1]",
+                            "click": true
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[2]/input",
+                            "value": "The Inside Man: Season 5 Ep 10"
+                        },
+                        {
+                            "xpath": "(//*[@class='multiselect__element'])[2]"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[2]/input",
+                            "special_key": "ENTER"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[1]",
+                            "click": true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn ml-2 btn-primary')]",
+                            "click" : true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn mt-3 btn-primary')]",
+                            "click" : true
+                        }
+                    ]
+                },
+                {
+                    "submitButtonXPath": "//*[contains(@class, 'btn mt-3 btn-primary')]",
+                    "values": [
+                        {
+                            "link_text": "TIM S05E11",
+                            "click": true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn dropdown-toggle btn-secondary')]",
+                            "click" : true
+                        },
+                        {
+                            "link_text": "Training",
+                            "click": true
+                        },
+                        {
+                            "xpath": "(//*[@class='custom-select'])[2]",
+                            "select": true,
+                            "select_text": "Completed"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[1]",
+                            "click": true
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[2]/input",
+                            "value": "The Inside Man: Season 5 Ep 10"
+                        },
+                        {
+                            "xpath": "(//*[@class='multiselect__element'])[2]"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[2]/input",
+                            "special_key": "ENTER"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[1]",
+                            "click": true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn ml-2 btn-primary')]",
+                            "click" : true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn dropdown-toggle btn-secondary')]",
+                            "click" : true
+                        },
+                        {
+                            "link_text": "Training",
+                            "click": true
+                        },
+                        {
+                            "xpath": "(//*[@class='custom-select'])[1]",
+                            "select" : true,
+                            "select_text": "Must Not"
+                        },
+                        {
+                            "xpath": "(//*[@class='custom-select'])[2]",
+                            "select": true,
+                            "select_text": "Completed"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[1]",
+                            "click": true
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[2]/input",
+                            "value": "The Inside Man: Season 5 Ep 11"
+                        },
+                        {
+                            "xpath": "(//*[@class='multiselect__element'])[2]"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[2]/input",
+                            "special_key": "ENTER"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[1]",
+                            "click": true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn ml-2 btn-primary')]",
+                            "click" : true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn mt-3 btn-primary')]",
+                            "click" : true
+                        }
+                    ]
+                },
+                {
+                    "submitButtonXPath": "//*[contains(@class, 'btn mt-3 btn-primary')]",
+                    "values": [
+                        {
+                            "link_text": "TIM S05E12",
+                            "click": true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn dropdown-toggle btn-secondary')]",
+                            "click" : true
+                        },
+                        {
+                            "link_text": "Training",
+                            "click": true
+                        },
+                        {
+                            "xpath": "(//*[@class='custom-select'])[2]",
+                            "select": true,
+                            "select_text": "Completed"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[1]",
+                            "click": true
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[2]/input",
+                            "value": "The Inside Man: Season 5 Ep 11"
+                        },
+                        {
+                            "xpath": "(//*[@class='multiselect__element'])[2]"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[2]/input",
+                            "special_key": "ENTER"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[1]",
+                            "click": true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn ml-2 btn-primary')]",
+                            "click" : true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn dropdown-toggle btn-secondary')]",
+                            "click" : true
+                        },
+                        {
+                            "link_text": "Training",
+                            "click": true
+                        },
+                        {
+                            "xpath": "(//*[@class='custom-select'])[1]",
+                            "select" : true,
+                            "select_text": "Must Not"
+                        },
+                        {
+                            "xpath": "(//*[@class='custom-select'])[2]",
+                            "select": true,
+                            "select_text": "Completed"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[1]",
+                            "click": true
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[2]/input",
+                            "value": "The Inside Man: Season 5 Ep 12"
+                        },
+                        {
+                            "xpath": "(//*[@class='multiselect__element'])[2]"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[2]/input",
+                            "special_key": "ENTER"
+                        },
+                        {
+                            "xpath": "(//*[contains(@class, 'multiselect fullwidth')])/div[1]",
+                            "click": true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn ml-2 btn-primary')]",
+                            "click" : true
+                        },
+                        {
+                            "xpath": "//*[contains(@class, 'btn mt-3 btn-primary')]",
+                            "click" : true
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
